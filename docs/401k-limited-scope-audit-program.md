@@ -37,10 +37,41 @@ This comprehensive audit program provides a complete, step-by-step checklist for
 | 1.2 | Evaluate professional competence - ERISA audit experience | | | |
 | 1.3 | Assess engagement risk factors | | | |
 | 1.4 | Review prior year audit results and findings | | | |
-| 1.5 | Inquire of predecessor auditor (if applicable) | | | |
-| 1.6 | Consider need for specialist (actuary, IT specialist) | | | |
-| 1.7 | Evaluate fee adequacy for scope of work | | | |
-| 1.8 | Document acceptance/continuance decision | | | |
+| 1.5 | Consider need for specialist (actuary, IT specialist) | | | |
+| 1.6 | Evaluate fee adequacy for scope of work | | | |
+| 1.7 | Document acceptance/continuance decision | | | |
+
+### Predecessor Auditor Procedures (If Applicable)
+
+**See [Predecessor Auditor Procedures](401k-predecessor-auditor.md) for detailed templates and sample letters.**
+
+| Step | Procedure | W/P Ref | Done By | Date |
+|------|-----------|---------|---------|------|
+| 1.8 | Identify predecessor auditor (from prior report/Form 5500) | | | |
+| 1.9 | Obtain written client authorization to contact predecessor | | | |
+| 1.10 | Send inquiry letter to predecessor auditor | | | |
+| 1.11 | Inquire about management integrity | | | |
+| 1.12 | Inquire about disagreements with management | | | |
+| 1.13 | Inquire about reason for auditor change | | | |
+| 1.14 | Inquire about fraud or illegal acts | | | |
+| 1.15 | Inquire about internal control communications | | | |
+| 1.16 | Document predecessor's responses | | | |
+| 1.17 | Evaluate responses for acceptance decision | | | |
+| 1.18 | If no response, document follow-up attempts | | | |
+| 1.19 | Consider requesting workpaper access | | | |
+| 1.20 | If workpapers reviewed, document findings | | | |
+
+### First-Year Audit Considerations (If Applicable)
+
+**See [First-Year Audit Considerations](401k-first-year-audit.md) for comprehensive guidance.**
+
+| Step | Procedure | W/P Ref | Done By | Date |
+|------|-----------|---------|---------|------|
+| 1.21 | Determine reason for first-year audit (new plan, crossed threshold, etc.) | | | |
+| 1.22 | Assess availability of historical records | | | |
+| 1.23 | Plan opening balance verification procedures | | | |
+| 1.24 | Consider enhanced risk assessment for first-year audit | | | |
+| 1.25 | Include first-year provisions in engagement letter | | | |
 
 ### Engagement Letter
 
@@ -900,6 +931,8 @@ Current Status:
 - [Sample Supplemental Schedules](401k-sample-supplemental-schedules.md)
 - [Audit Timeline](401k-audit-timeline.md)
 - [Limited Scope Audit Overview](401k-limited-scope-audit.md)
+- [First-Year Audit Considerations](401k-first-year-audit.md)
+- [Predecessor Auditor Procedures](401k-predecessor-auditor.md)
 
 ---
 

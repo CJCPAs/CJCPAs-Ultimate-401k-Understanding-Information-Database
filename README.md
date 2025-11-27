@@ -33,12 +33,14 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 - [Audit Reports & Opinions](docs/401k-audit-reports.md) - Report types and components
 - [Limited Scope Audits](docs/401k-limited-scope-audit.md) - Bank/insurance company certification
 
-### Part 4: Limited Scope Audit Resources (NEW)
+### Part 4: Limited Scope Audit Resources
 - [Limited Scope Audit Program](docs/401k-limited-scope-audit-program.md) - Complete step-by-step audit checklist
 - [Certification Evaluation Checklist](docs/401k-certification-evaluation-checklist.md) - Point-by-point certification verification
 - [Sample Financial Statements](docs/401k-sample-financial-statements.md) - Complete financial statement templates
 - [Sample Supplemental Schedules](docs/401k-sample-supplemental-schedules.md) - Schedule of Assets, Delinquent Contributions
 - [Audit Timeline & Calendar](docs/401k-audit-timeline.md) - Month-by-month planning guide
+- [First-Year Audit Considerations](docs/401k-first-year-audit.md) - Initial audit procedures, opening balances, short plan years
+- [Predecessor Auditor Procedures](docs/401k-predecessor-auditor.md) - Prior auditor communications, workpaper access, templates
 
 ### Part 5: Regulatory & Compliance
 - [Form 5500 Filing](docs/401k-form-5500.md) - Annual reporting requirements
@@ -147,9 +149,9 @@ You'll find detailed, actionable information organized for easy reference.
 | Plan Fundamentals | 8 guides | 3,000+ |
 | Plan Administration | 6 guides | 2,500+ |
 | Audit Procedures | 9 guides | 4,000+ |
-| Limited Scope Resources | 5 templates | 3,500+ |
+| Limited Scope Resources | 7 templates | 5,000+ |
 | Regulatory & Compliance | 4 guides | 2,000+ |
-| **Total** | **32+ documents** | **15,000+ lines** |
+| **Total** | **34+ documents** | **16,500+ lines** |
 
 ---
 
