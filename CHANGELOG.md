@@ -14,6 +14,28 @@ This document tracks all updates to the Ultimate 401(k) Understanding Informatio
 
 ---
 
+## Version 2.1.0 - November 2025
+
+### 🆕 State-Specific Considerations (NEW)
+
+Added comprehensive state-by-state coverage for 401(k) audits:
+
+- `401k-state-specific-considerations.md` (~630 lines)
+
+**Covers all 50 states including:**
+- State income tax treatment of 401(k) contributions and distributions
+- States with no income tax (9 states)
+- Retirement income exclusions by state
+- Mandatory vs. voluntary state tax withholding
+- State-mandated retirement programs (CalSavers, OregonSaves, etc.)
+- Unclaimed property / escheatment laws (dormancy periods, due diligence)
+- Community property states (9 states + Alaska opt-in)
+- State payroll and wage law impacts
+- State privacy laws (CCPA, CPRA, and 16 other states)
+- State-by-state quick reference table
+
+---
+
 ## Version 2.0.0 - November 2025
 
 ### 🆕 2025 Plan Year Updates
@@ -242,6 +264,7 @@ Use this checklist each year to ensure the database stays current:
 
 | Version | Date | Summary |
 |---------|------|---------|
+| 2.1.0 | Nov 2025 | Added state-specific considerations (all 50 states) |
 | 2.0.0 | Nov 2025 | 2025 plan year update; added 10 new documents; added external resources and changelog |
 | 1.0.0 | 2024 | Initial release with 35 core documents |
 

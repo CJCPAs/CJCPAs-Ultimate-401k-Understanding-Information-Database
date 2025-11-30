@@ -1,6 +1,6 @@
 # Ultimate 401(k) Understanding Information Database
 
-**Version 2.0.0 | Updated November 2025 | 35,000+ Lines of Documentation**
+**Version 2.1.0 | Updated November 2025 | 36,000+ Lines of Documentation**
 
 The most comprehensive resource for understanding every detail of 401(k) retirement plans and **401(k) audits** - covering both limited scope and full scope engagements, MEPs, PEPs, and everything in between.
 
@@ -78,6 +78,7 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 
 ### Part 6: Special Topics
 - [Cybersecurity for 401(k) Plans](docs/401k-cybersecurity.md) - Protecting plan assets and data
+- [State-Specific Considerations](docs/401k-state-specific-considerations.md) - State taxes, escheatment, community property, mandated programs
 
 ### Part 7: Professional Templates (NEW)
 - [Engagement Letter - Limited Scope](templates/engagement-letter-limited-scope.md) - Complete engagement letter template
@@ -194,8 +195,8 @@ You'll find detailed, actionable information organized for easy reference.
 | Specialized Audits | 1 guide | ~800 | MEP/PEP audit procedures |
 | Reference Materials | 4 guides | ~4,130 | Glossary, flowcharts, case studies, QC |
 | Regulatory & Compliance | 4 guides | ~3,400 | DOL, IRS, Form 5500, SECURE 2.0 |
-| Special Topics | 2 guides | ~1,100 | Cybersecurity, external resources |
-| **Total** | **46+ documents** | **~35,000+** | **THE ULTIMATE RESOURCE** |
+| Special Topics | 3 guides | ~1,700 | Cybersecurity, external resources, state-specific |
+| **Total** | **47+ documents** | **~36,000+** | **THE ULTIMATE RESOURCE** |
 
 ### New in Version 2.0.0
 
@@ -219,6 +220,7 @@ You'll find detailed, actionable information organized for easy reference.
 - 2025 IRS Limits - All contribution and threshold limits updated
 - SECURE 2.0 Effective Dates - Enhanced catch-up (60-63) NOW EFFECTIVE
 - Audit Season Ready - Everything needed for 2025 plan year audits (performed in 2026)
+- **State-Specific Considerations** - All 50 states covered: taxes, escheatment, community property, mandatory programs
 
 ---
 
