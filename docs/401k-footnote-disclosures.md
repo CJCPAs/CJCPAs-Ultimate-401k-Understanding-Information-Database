@@ -340,6 +340,51 @@ Due to the nature of these investments, values may be estimated using the most r
 
 ---
 
+### Note: Cryptocurrency / Digital Asset Investments
+
+*For plans offering cryptocurrency or digital asset investment options:*
+
+The Plan offers participants the option to invest in cryptocurrency/digital assets through [PROVIDER NAME / SELF-DIRECTED BROKERAGE WINDOW]. As of [DATE], the Plan held digital assets with a fair value of $[AMOUNT], representing approximately [X]% of total Plan assets.
+
+**Valuation**
+
+Digital assets are valued at fair value based on quoted prices on active cryptocurrency exchanges as of [TIME, e.g., 4:00 PM ET] on the last business day of the plan year. The Plan uses [EXCHANGE NAME / PRICING SERVICE] as its primary pricing source. Digital assets are classified within Level 1 of the fair value hierarchy when quoted prices in active markets are available, or Level 2 when pricing is derived from observable inputs from multiple exchanges.
+
+**Digital Asset Holdings**
+
+| Asset | Units Held | Fair Value |
+|-------|-----------|-----------|
+| Bitcoin (BTC) | X.XXXX | $X |
+| Ethereum (ETH) | X.XXXX | $X |
+| [Other] | X.XXXX | $X |
+| **Total Digital Assets** | | **$X** |
+
+**Risks and Uncertainties**
+
+Investments in digital assets are subject to significant risks including:
+- **Price Volatility**: Cryptocurrency prices may fluctuate significantly in short periods
+- **Regulatory Risk**: The regulatory environment for digital assets continues to evolve
+- **Cybersecurity Risk**: Digital assets may be subject to theft through hacking or other cyber attacks
+- **Liquidity Risk**: Certain digital assets may have limited liquidity
+- **Technology Risk**: Blockchain technology and digital asset protocols may contain undiscovered flaws
+- **Custody Risk**: Digital assets are held by [CUSTODIAN NAME] in [hot/cold] storage wallets
+
+The Plan limits participant investment in digital assets to [X]% of account balance as a risk mitigation measure. Participants are provided with specific risk disclosures prior to investing in digital assets.
+
+**DOL Guidance**
+
+On March 10, 2022, the Department of Labor issued Compliance Assistance Release No. 2022-01, expressing significant concerns about the prudence of exposing 401(k) plan participants to direct investments in cryptocurrencies. The Plan's fiduciaries have evaluated these concerns and [describe fiduciary analysis and rationale for offering digital assets].
+
+*Alternative - Cryptocurrency through SDBA only:*
+
+The Plan does not offer cryptocurrency as a designated investment option. However, participants may invest in cryptocurrency or digital assets through the Plan's self-directed brokerage account window. As of [DATE], participants held approximately $[AMOUNT] in digital assets through self-directed brokerage accounts. The Plan has no fiduciary responsibility for participant investment selections within the self-directed brokerage window.
+
+*Alternative - No cryptocurrency exposure:*
+
+The Plan does not permit investment in cryptocurrency or digital assets, either as a designated investment option or through the self-directed brokerage account window.
+
+---
+
 ## Part 3: Transfers & Plan Changes
 
 ### Note: Transfers from Other Plans
@@ -796,20 +841,37 @@ The following is a reconciliation of contributions per the financial statements 
 | **All Plans** | Plan Description, Accounting Policies, Tax Status, Fair Value, Related Parties, Plan Termination Rights, Risks |
 | **Has Stable Value Fund** | Fully Benefit-Responsive Contracts |
 | **Has Employer Stock** | Employer Securities, Concentration Risk |
+| **Has Self-Directed Brokerage** | Self-Directed Brokerage Accounts |
+| **Has Alternative Investments** | Alternative Investments |
+| **Has Cryptocurrency/Digital Assets** | Cryptocurrency/Digital Asset Investments |
 | **Has Participant Loans** | Notes Receivable from Participants |
+| **Hardship Withdrawals Permitted** | Hardship Withdrawals |
+| **Has RMD Participants** | Required Minimum Distributions |
+| **Processed QDROs** | Qualified Domestic Relations Orders |
 | **Plan Merger (Assets In)** | Transfers from Other Plans |
 | **Plan Spinoff (Assets Out)** | Transfers to Other Plans |
 | **Joining a PEP** | Transfer to PEP |
 | **Leaving a PEP** | Transfer from PEP |
 | **Joining a MEP** | Transfer to MEP |
 | **Leaving a MEP** | Transfer from MEP |
+| **Plan Amendment** | Plan Amendment |
+| **Plan Conversion** | Plan Conversion (Safe Harbor, Roth, etc.) |
 | **Late Contributions** | Late Remittance |
+| **Prohibited Transaction** | Prohibited Transactions |
 | **Excess Contributions Returned** | Excess Contributions |
 | **Partial Termination** | Partial Plan Termination |
 | **Terminated Plan** | Plan Termination |
 | **Frozen Plan** | Plan Frozen |
-| **SECURE 2.0 Features** | Applicable SECURE 2.0 notes |
+| **Pending Litigation** | Litigation |
+| **Cybersecurity Incident** | Cybersecurity Incident |
+| **Missing Participants** | Missing Participants |
 | **Changed Recordkeepers** | Change in Recordkeeper |
+| **SECURE 2.0 - Auto Enrollment** | Automatic Enrollment Feature |
+| **SECURE 2.0 - Enhanced Catch-Up** | Enhanced Catch-Up Contributions (Ages 60-63) |
+| **SECURE 2.0 - LTPT Employees** | Long-Term Part-Time Employees |
+| **SECURE 2.0 - Student Loan Match** | Student Loan Matching Contributions |
+| **SECURE 2.0 - PLESA** | Pension-Linked Emergency Savings Account |
+| **SECURE 2.0 - Roth Employer** | Roth Employer Contributions |
 | **All Plans** | Form 5500 Reconciliation |
 
 ---
