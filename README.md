@@ -1,6 +1,16 @@
 # Ultimate 401(k) Understanding Information Database
 
+**Version 2.0.0 | Updated November 2025 | 35,000+ Lines of Documentation**
+
 The most comprehensive resource for understanding every detail of 401(k) retirement plans and **401(k) audits** - covering both limited scope and full scope engagements, MEPs, PEPs, and everything in between.
+
+> **2025 Plan Year Ready**: All limits, SECURE 2.0 provisions, and audit guidance updated for the 2025 plan year (audits performed in 2026).
+
+## Quick Links
+
+- [Changelog & Update Log](CHANGELOG.md) - Version history and annual updates
+- [External Resources](docs/401k-external-resources.md) - Official DOL, IRS, and AICPA links
+- [Glossary](docs/401k-glossary.md) - 150+ terms defined
 
 ## Table of Contents
 
@@ -81,20 +91,23 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 
 ## Quick Reference
 
-### Key Numbers (2024)
+### Key Numbers (2025 Plan Year)
 
 | Item | Amount |
 |------|--------|
-| Employee Contribution Limit | $23,000 |
+| Employee Contribution Limit | $23,500 |
 | Catch-Up Contribution (50+) | $7,500 |
 | Enhanced Catch-Up (60-63)* | $11,250 |
-| Total Annual Addition Limit | $69,000 |
-| Compensation Limit | $345,000 |
-| Highly Compensated Employee Threshold | $155,000 |
-| Key Employee (Officer) Threshold | $220,000 |
+| Super Catch-Up Total (60-63) | $34,750 |
+| Total Annual Addition Limit | $70,000 |
+| Compensation Limit | $350,000 |
+| Highly Compensated Employee Threshold | $160,000 |
+| Key Employee (Officer) Threshold | $230,000 |
+| Defined Benefit Limit | $280,000 |
+| Social Security Wage Base | $176,100 |
 | Audit Requirement Threshold | 100+ eligible participants |
 
-*Effective 2025 under SECURE 2.0
+*SECURE 2.0 enhanced catch-up for ages 60-63 is NOW EFFECTIVE for 2025 plan year
 
 ### Important Deadlines (Calendar Year Plan)
 
@@ -170,21 +183,21 @@ You'll find detailed, actionable information organized for easy reference.
 
 ### What's Included
 
-| Category | Documents | Description |
-|----------|-----------|-------------|
-| Plan Fundamentals | 8 guides | Complete 401(k) concepts and rules |
-| Plan Administration | 6 guides | Fiduciary, compliance, service providers |
-| Audit Procedures | 9 guides | Planning through reporting |
-| Limited Scope Resources | 7 templates | Programs, checklists, templates |
-| Full Scope Resources | 1 program | Complete full scope audit program |
-| Audit Tools & Templates | 4 templates | Calculations, letters, fraud assessment |
-| Specialized Audits | 1 guide | MEP/PEP audit procedures |
-| Reference Materials | 4 guides | Glossary, flowcharts, case studies, QC |
-| Regulatory & Compliance | 4 guides | DOL, IRS, Form 5500, SECURE 2.0 |
-| Special Topics | 1 guide | Cybersecurity |
-| **Total** | **45+ documents** | **THE ULTIMATE RESOURCE** |
+| Category | Documents | Lines | Description |
+|----------|-----------|-------|-------------|
+| Plan Fundamentals | 8 guides | ~5,800 | Complete 401(k) concepts and rules |
+| Plan Administration | 6 guides | ~4,200 | Fiduciary, compliance, service providers |
+| Audit Procedures | 9 guides | ~6,500 | Planning through reporting |
+| Limited Scope Resources | 7 templates | ~5,100 | Programs, checklists, templates |
+| Full Scope Resources | 1 program | ~730 | Complete full scope audit program |
+| Audit Tools & Templates | 4 templates | ~2,740 | Calculations, letters, fraud assessment |
+| Specialized Audits | 1 guide | ~800 | MEP/PEP audit procedures |
+| Reference Materials | 4 guides | ~4,130 | Glossary, flowcharts, case studies, QC |
+| Regulatory & Compliance | 4 guides | ~3,400 | DOL, IRS, Form 5500, SECURE 2.0 |
+| Special Topics | 2 guides | ~1,100 | Cybersecurity, external resources |
+| **Total** | **46+ documents** | **~35,000+** | **THE ULTIMATE RESOURCE** |
 
-### New in This Version
+### New in Version 2.0.0
 
 **Phase 1 - Core Audit Resources:**
 - Full Scope Audit Program - Complete investment testing procedures
@@ -199,6 +212,13 @@ You'll find detailed, actionable information organized for easy reference.
 - Flowcharts & Decision Trees - 15 visual decision guides
 - Case Studies - 12 real-world scenarios with solutions
 - Quality Control Checklists - Complete review procedures
+
+**Phase 3 - 2025 Plan Year Updates (November 2025):**
+- External Resources Document - Official DOL, IRS, AICPA links
+- Changelog & Update Log - Version history and annual update tracking
+- 2025 IRS Limits - All contribution and threshold limits updated
+- SECURE 2.0 Effective Dates - Enhanced catch-up (60-63) NOW EFFECTIVE
+- Audit Season Ready - Everything needed for 2025 plan year audits (performed in 2026)
 
 ---
 
