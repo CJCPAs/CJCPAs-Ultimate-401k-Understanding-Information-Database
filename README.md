@@ -1,6 +1,6 @@
 # Ultimate 401(k) Understanding Information Database
 
-The most comprehensive resource for understanding every detail of 401(k) retirement plans and **traditional limited scope 401(k) audits**.
+The most comprehensive resource for understanding every detail of 401(k) retirement plans and **401(k) audits** - covering both limited scope and full scope engagements, MEPs, PEPs, and everything in between.
 
 ## Table of Contents
 
@@ -41,6 +41,18 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 - [Audit Timeline & Calendar](docs/401k-audit-timeline.md) - Month-by-month planning guide
 - [First-Year Audit Considerations](docs/401k-first-year-audit.md) - Initial audit procedures, opening balances, short plan years
 - [Predecessor Auditor Procedures](docs/401k-predecessor-auditor.md) - Prior auditor communications, workpaper access, templates
+
+### Part 4B: Full Scope Audit Resources
+- [Full Scope Audit Program](docs/401k-full-scope-audit-program.md) - Complete audit program for full scope engagements with investment testing
+
+### Part 4C: Audit Tools & Templates
+- [Calculation Templates](docs/401k-calculation-templates.md) - Materiality, sampling, ADP/ACP, compliance testing worksheets
+- [Engagement Letter Templates](docs/401k-engagement-letters.md) - Limited scope, full scope, and first-year engagement letters
+- [Management Representation Letters](docs/401k-management-representations.md) - Comprehensive rep letter templates
+- [Fraud Risk Assessment](docs/401k-fraud-risk-assessment.md) - Fraud risk evaluation templates and procedures
+
+### Part 4D: Specialized Plan Audits
+- [MEP and PEP Audits](docs/401k-mep-pep-audits.md) - Multiple Employer Plans and Pooled Employer Plans audit guide
 
 ### Part 5: Regulatory & Compliance
 - [Form 5500 Filing](docs/401k-form-5500.md) - Annual reporting requirements
@@ -144,14 +156,27 @@ You'll find detailed, actionable information organized for easy reference.
 
 ### What's Included
 
-| Category | Documents | Lines of Documentation |
-|----------|-----------|----------------------|
-| Plan Fundamentals | 8 guides | 3,000+ |
-| Plan Administration | 6 guides | 2,500+ |
-| Audit Procedures | 9 guides | 4,000+ |
-| Limited Scope Resources | 7 templates | 5,000+ |
-| Regulatory & Compliance | 4 guides | 2,000+ |
-| **Total** | **34+ documents** | **16,500+ lines** |
+| Category | Documents | Description |
+|----------|-----------|-------------|
+| Plan Fundamentals | 8 guides | Complete 401(k) concepts and rules |
+| Plan Administration | 6 guides | Fiduciary, compliance, service providers |
+| Audit Procedures | 9 guides | Planning through reporting |
+| Limited Scope Resources | 7 templates | Programs, checklists, templates |
+| Full Scope Resources | 1 program | Complete full scope audit program |
+| Audit Tools & Templates | 4 templates | Calculations, letters, fraud assessment |
+| Specialized Audits | 1 guide | MEP/PEP audit procedures |
+| Regulatory & Compliance | 4 guides | DOL, IRS, Form 5500, SECURE 2.0 |
+| Special Topics | 1 guide | Cybersecurity |
+| **Total** | **41+ documents** | **Comprehensive coverage** |
+
+### New in This Version
+
+- **Full Scope Audit Program** - Complete procedures for full scope engagements
+- **Calculation Templates** - Materiality, sampling, ADP/ACP worksheets
+- **Engagement Letters** - Ready-to-use letter templates
+- **Management Representation Letters** - Complete rep letter templates
+- **Fraud Risk Assessment** - Comprehensive fraud evaluation framework
+- **MEP/PEP Guide** - Multiple and Pooled Employer Plan audit guidance
 
 ---
 
