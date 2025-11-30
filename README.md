@@ -1,6 +1,6 @@
 # Ultimate 401(k) Understanding Information Database
 
-The most comprehensive resource for understanding every detail of 401(k) retirement plans and **traditional limited scope 401(k) audits**.
+The most comprehensive resource for understanding every detail of 401(k) retirement plans and **401(k) audits** - covering both limited scope and full scope engagements, MEPs, PEPs, and everything in between.
 
 ## Table of Contents
 
@@ -33,12 +33,26 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 - [Audit Reports & Opinions](docs/401k-audit-reports.md) - Report types and components
 - [Limited Scope Audits](docs/401k-limited-scope-audit.md) - Bank/insurance company certification
 
-### Part 4: Limited Scope Audit Resources (NEW)
+### Part 4: Limited Scope Audit Resources
 - [Limited Scope Audit Program](docs/401k-limited-scope-audit-program.md) - Complete step-by-step audit checklist
 - [Certification Evaluation Checklist](docs/401k-certification-evaluation-checklist.md) - Point-by-point certification verification
 - [Sample Financial Statements](docs/401k-sample-financial-statements.md) - Complete financial statement templates
 - [Sample Supplemental Schedules](docs/401k-sample-supplemental-schedules.md) - Schedule of Assets, Delinquent Contributions
 - [Audit Timeline & Calendar](docs/401k-audit-timeline.md) - Month-by-month planning guide
+- [First-Year Audit Considerations](docs/401k-first-year-audit.md) - Initial audit procedures, opening balances, short plan years
+- [Predecessor Auditor Procedures](docs/401k-predecessor-auditor.md) - Prior auditor communications, workpaper access, templates
+
+### Part 4B: Full Scope Audit Resources
+- [Full Scope Audit Program](docs/401k-full-scope-audit-program.md) - Complete audit program for full scope engagements with investment testing
+
+### Part 4C: Audit Tools & Templates
+- [Calculation Templates](docs/401k-calculation-templates.md) - Materiality, sampling, ADP/ACP, compliance testing worksheets
+- [Engagement Letter Templates](docs/401k-engagement-letters.md) - Limited scope, full scope, and first-year engagement letters
+- [Management Representation Letters](docs/401k-management-representations.md) - Comprehensive rep letter templates
+- [Fraud Risk Assessment](docs/401k-fraud-risk-assessment.md) - Fraud risk evaluation templates and procedures
+
+### Part 4D: Specialized Plan Audits
+- [MEP and PEP Audits](docs/401k-mep-pep-audits.md) - Multiple Employer Plans and Pooled Employer Plans audit guide
 
 ### Part 5: Regulatory & Compliance
 - [Form 5500 Filing](docs/401k-form-5500.md) - Annual reporting requirements
@@ -159,6 +173,27 @@ You'll find detailed, actionable information organized for easy reference.
 | Regulatory & Compliance | 4 guides | 2,000+ |
 | Professional Templates | 6 templates | 2,500+ |
 | **Total** | **38+ documents** | **17,500+ lines** |
+| Category | Documents | Description |
+|----------|-----------|-------------|
+| Plan Fundamentals | 8 guides | Complete 401(k) concepts and rules |
+| Plan Administration | 6 guides | Fiduciary, compliance, service providers |
+| Audit Procedures | 9 guides | Planning through reporting |
+| Limited Scope Resources | 7 templates | Programs, checklists, templates |
+| Full Scope Resources | 1 program | Complete full scope audit program |
+| Audit Tools & Templates | 4 templates | Calculations, letters, fraud assessment |
+| Specialized Audits | 1 guide | MEP/PEP audit procedures |
+| Regulatory & Compliance | 4 guides | DOL, IRS, Form 5500, SECURE 2.0 |
+| Special Topics | 1 guide | Cybersecurity |
+| **Total** | **41+ documents** | **Comprehensive coverage** |
+
+### New in This Version
+
+- **Full Scope Audit Program** - Complete procedures for full scope engagements
+- **Calculation Templates** - Materiality, sampling, ADP/ACP worksheets
+- **Engagement Letters** - Ready-to-use letter templates
+- **Management Representation Letters** - Complete rep letter templates
+- **Fraud Risk Assessment** - Comprehensive fraud evaluation framework
+- **MEP/PEP Guide** - Multiple and Pooled Employer Plan audit guidance
 
 ---
 
@@ -166,6 +201,26 @@ You'll find detailed, actionable information organized for easy reference.
 
 This is a living document. Contributions are welcome to help maintain accuracy and expand coverage of 401(k) topics.
 
-## Disclaimer
+## ⚠️ Important Disclaimer
+THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.
 
-This information is provided for educational purposes only and should not be considered legal, tax, or financial advice. Always consult with qualified professionals for specific guidance related to your situation.
+The information contained in this guide, including all tutorials, templates, examples, charts of accounts, checklists, and reference materials, is provided "as is" without warranty of any kind, express or implied. This guide does not constitute professional accounting, tax, legal, or financial advice.
+
+Please Note:
+Not Professional Advice: This guide is not a substitute for professional accounting, tax, or legal counsel. Every business situation is unique, and the information provided here may not be appropriate for your specific circumstances.
+
+No CPA-Client Relationship: Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s) or publisher(s) of this content.
+
+Verify with Professionals: Before implementing any financial practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), tax professional, or attorney who is familiar with your specific business situation and applicable laws.
+
+Accuracy Not Guaranteed: While every effort has been made to ensure the accuracy and completeness of the information in this guide, accounting standards (GAAP), tax laws, and software features change frequently. The author(s) make no guarantees that the information is current, complete, or error-free.
+
+State and Local Variations: Construction accounting requirements, lien laws, retention rules, and tax obligations vary significantly by state, county, and municipality. This guide provides general guidance and may not address requirements specific to your jurisdiction.
+
+Limitation of Liability: In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
+
+Your Responsibility: You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
+
+BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THIS DISCLAIMER.
+
+If you need professional assistance with your construction accounting, please consult with a licensed CPA or accounting professional in your area.
