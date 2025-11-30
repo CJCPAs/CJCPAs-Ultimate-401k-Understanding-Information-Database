@@ -165,17 +165,17 @@ You'll find detailed, actionable information organized for easy reference.
 ### What's Included
 
 | Category | Documents | Description | Lines of Documentation |
-|----------|-----------|----------------------||-------------|
+|----------|-----------|-------------|------------------------|
 | Plan Fundamentals | 8 guides | Complete 401(k) concepts and rules | 3,000+ |
 | Plan Administration | 6 guides | Fiduciary, compliance, service providers | 2,500+ |
-| Audit Procedures | 9 guides | Planning through reporting |4,000+ |
-| Limited Scope Resources | 7 templates | Programs, checklists, templates |3,500+ |
-| Full Scope Resources | 1 program | Complete full scope audit program |2,000+ |
+| Audit Procedures | 9 guides | Planning through reporting | 4,000+ |
+| Limited Scope Resources | 7 templates | Programs, checklists, templates | 3,500+ |
+| Full Scope Resources | 1 program | Complete full scope audit program | 2,000+ |
 | Audit Tools & Templates | 4 templates | Calculations, letters, fraud assessment | 2,500+ |
-| Specialized Audits | 1 guide | MEP/PEP audit procedures | |
-| Regulatory & Compliance | 4 guides | DOL, IRS, Form 5500, SECURE 2.0 |  |
-| Special Topics | 1 guide | Cybersecurity | |
-| **Total** | **41+ documents** | **Comprehensive coverage** | |
+| Specialized Audits | 1 guide | MEP/PEP audit procedures | 800+ |
+| Regulatory & Compliance | 4 guides | DOL, IRS, Form 5500, SECURE 2.0 | 2,100+ |
+| Special Topics | 1 guide | Cybersecurity | 300+ |
+| **Total** | **41+ documents** | **Comprehensive coverage** | **20,700+** |
 
 ### New in This Version
 
