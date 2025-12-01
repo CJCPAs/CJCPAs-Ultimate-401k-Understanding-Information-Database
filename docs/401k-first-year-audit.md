@@ -29,41 +29,83 @@ This guide covers the unique considerations, procedures, and requirements for co
 
 ### The 100-Participant Threshold
 
-A 401(k) plan requires an audit when it has **100 or more eligible participants** at the beginning of the plan year.
+A 401(k) plan requires an audit when it has **100 or more participants with account balances**. For first-year plans, this count is taken at the **end** of the plan year (not the beginning, since no participants have balances at the beginning of a new plan).
+
+### 2023 Participant Count Changes
+
+**Effective for plan years beginning January 1, 2023**, the DOL changed the counting methodology:
+- Count only participants **with account balances** (not all eligible employees)
+- This applies to both first-year and existing plan audits
 
 #### First-Year Audit Trigger Scenarios
 
-| Scenario | Year 1 Participants | Year 2 Beginning | Audit Required? |
-|----------|---------------------|------------------|-----------------|
-| New plan starts small | 50 | 50 | No |
-| New plan starts large | 0 (new plan) | 150 | Yes - Year 2 |
-| Rapid growth | 80 | 120 | Yes - Year 2 |
-| Plan merger | 60 | 180 (merged) | Yes - Year 2 |
+| Scenario | Plan Year Length | Participants at Year-End | Audit Required? |
+|----------|------------------|--------------------------|-----------------|
+| New plan, full year, small | 12 months | 50 | No |
+| New plan, full year, large | 12 months | 150 | **Yes - Year 1** |
+| New plan, short year, large | ≤7 months | 150 | **Deferred to Year 2** |
+| New plan, short year, small | ≤7 months | 50 | No |
+| Plan merger (Year 1) | Any | 180 (merged) | May require Year 1 audit |
 
-### Key Principle
+### Key Principle - CORRECTED
 
-**A brand new plan will NOT require an audit in its first year** because it had zero participants at the beginning of that plan year. However, if the plan has 100+ participants at the end of Year 1, an audit will be required for Year 2.
+**First-year plans are NOT automatically exempt from audits.** The rules are:
+
+1. **Participant count timing**: For first-year plans, count is at **year-end** (not beginning)
+2. **If 100+ at year-end**: Audit IS required
+3. **Short plan year deferral**: If plan year is ≤7 months, audit can be deferred (not waived) to Year 2
+
+**Example - Audit Required in Year 1:**
+- Company establishes plan effective January 1, 2025
+- Plan year is 12 months (January 1 - December 31)
+- 200 employees enroll and have account balances by December 31, 2025
+- **Result: Audit required for Year 1 (2025)**
+
+**Example - Audit Deferred:**
+- Company establishes plan effective August 1, 2025
+- Plan year is 5 months (August 1 - December 31)
+- 200 employees enroll and have account balances by December 31, 2025
+- **Result: Audit can be DEFERRED to Year 2 (combined audit covers 2025 short year + 2026)**
+
+### The 7-Month Short Plan Year Deferral (29 CFR 2520.104-50)
+
+If your plan's first year is **7 months or less**, you may **defer** the audit:
+
+| Plan Year Length | 100+ Participants at Year-End | Result |
+|------------------|-------------------------------|--------|
+| More than 7 months | Yes | Audit required in Year 1 |
+| More than 7 months | No | No audit required |
+| 7 months or less | Yes | Audit DEFERRED to Year 2 (covers both years) |
+| 7 months or less | No | No audit required |
+
+**Important**: Deferral ≠ Exemption. The plan will still be audited—just combined with Year 2.
 
 ### Exceptions and Special Situations
 
-#### Plans That Start Large
+#### Plans That Start Large (Full Plan Year)
 
-If an employer establishes a plan and immediately covers 100+ employees:
-- Year 1: No audit (0 participants at beginning)
-- Year 2: Audit required (100+ at beginning)
+If an employer establishes a plan January 1 and immediately covers 100+ employees:
+- Year 1: **Audit required** (100+ participants with balances at 12/31)
+- This is different from the old misconception that first-year plans are exempt
+
+#### Plans That Start Large (Short Plan Year)
+
+If an employer establishes a plan mid-year (e.g., July 1) with 100+ employees:
+- If plan year ≤7 months: Audit can be **deferred** to Year 2
+- If plan year >7 months: Audit **required** in Year 1
 
 #### Spin-Off Plans
 
 When a new plan is created from a spin-off:
-- Count participants transferred at beginning of new plan
-- If 100+ transferred, audit may be required in first year
-- Consider plan establishment date vs. effective date
+- Count participants transferred with account balances
+- If 100+ transferred with balances at year-end, audit required
+- Short plan year deferral may apply if ≤7 months
 
 #### Merger Into New Plan
 
 When plans merge into a newly established plan:
-- Participants from predecessor plans count
-- May trigger first-year audit requirement
+- Participants from predecessor plans with balances count
+- May trigger first-year audit requirement based on year-end count
 
 ---
 
@@ -807,4 +849,4 @@ described in the Basis for Qualified Opinion section...
 
 ---
 
-*Last Updated: 2024*
+*Last Updated: December 2025*

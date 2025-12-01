@@ -24,120 +24,189 @@ This is one of the most common questions plan sponsors ask. The answer depends o
 
 ### The Simple Answer
 
-**If your plan has 100 or more eligible participants on the first day of the plan year, you generally need an audit.** But there's a transition rule (the "80-120 rule") that provides some flexibility.
+**If your plan has 100 or more participants with account balances at the beginning of the plan year, you generally need an audit.** But there's a transition rule (the "80-120 rule") that provides some flexibility.
+
+### Important: 2023 Participant Count Changes
+
+**Effective for plan years beginning January 1, 2023**, the DOL changed how participants are counted:
+
+| Before 2023 | After 2023 |
+|-------------|------------|
+| Count all **eligible** participants | Count only participants **with account balances** |
+| Included employees who declined to participate | Only includes those with actual money in the plan |
+
+This change reduced audit requirements for approximately 20,000 small business plans.
 
 ### Where to Find Your Participant Count
 
-Look at **Line 6g on your prior year Form 5500**. This shows the number of participants at the beginning of the plan year. For a calendar year plan, this is January 1st.
+Look at **Line 6 on your prior year Form 5500**. This shows the number of participants with account balances at the beginning of the plan year. For a calendar year plan, this is January 1st.
 
 ### The Decision Tree
 
 Follow this flowchart to determine if you need an audit:
 
 ```
-                    START HERE
-                        │
-                        ▼
-        ┌───────────────────────────────────┐
-        │  Did your plan START during       │
-        │  this plan year (new plan)?       │
-        └───────────────────────────────────┘
-                   │           │
-                  YES          NO
-                   │           │
-                   ▼           ▼
-        ┌─────────────┐   ┌───────────────────────────────────┐
-        │ First-year  │   │  How many participants on 1/1     │
-        │ plans are   │   │  of the plan year?                │
-        │ generally   │   │  (Check Line 6g of PY 5500)       │
-        │ exempt.     │   └───────────────────────────────────┘
-        │ File as     │              │
-        │ small plan. │     ┌────────┼────────┐
-        └─────────────┘     │        │        │
-                            ▼        ▼        ▼
-                       ┌────────┐ ┌────────┐ ┌────────┐
-                       │  121+  │ │100-120 │ │  <100  │
-                       └────────┘ └────────┘ └────────┘
-                            │        │        │
-                            ▼        ▼        ▼
-        ┌─────────────────────┐     │   ┌─────────────────────┐
-        │                     │     │   │                     │
-        │  YES - AUDIT        │     │   │  Was your PRIOR     │
-        │  REQUIRED           │     │   │  year Form 5500     │
-        │                     │     │   │  filed as a         │
-        │  No exceptions.     │     │   │  LARGE plan?        │
-        │  Period.            │     │   │                     │
-        │                     │     │   └─────────────────────┘
-        └─────────────────────┘     │          │        │
-                                    │         YES       NO
-                                    │          │        │
-                                    │          ▼        ▼
-                                    │   ┌───────────┐ ┌───────────┐
-                                    │   │ Do you    │ │ NO AUDIT  │
-                                    │   │ have 80+  │ │ REQUIRED  │
-                                    │   │ now?      │ │           │
-                                    │   └───────────┘ │ File as   │
-                                    │      │    │     │ small     │
-                                    │     YES   NO    │ plan.     │
-                                    │      │    │     └───────────┘
-                                    ▼      ▼    ▼
-                        ┌───────────────────────────────────┐
-                        │  What was your PRIOR year        │
-                        │  Form 5500 filed as?             │
-                        └───────────────────────────────────┘
-                               │                │
-                        SMALL PLAN         LARGE PLAN
-                               │                │
-                               ▼                ▼
-                    ┌─────────────────┐  ┌─────────────────┐
-                    │                 │  │                 │
-                    │  NO AUDIT       │  │  AUDIT          │
-                    │  REQUIRED       │  │  REQUIRED       │
-                    │                 │  │                 │
-                    │  You can stay   │  │  Once large,    │
-                    │  "small" until  │  │  stay large     │
-                    │  you hit 121+   │  │  until <80      │
-                    │                 │  │                 │
-                    └─────────────────┘  └─────────────────┘
+                              START HERE
+                                  │
+                                  ▼
+                  ┌───────────────────────────────────┐
+                  │  Is this your plan's FIRST        │
+                  │  plan year (brand new plan)?      │
+                  └───────────────────────────────────┘
+                             │           │
+                            YES          NO ─────────────────────────────┐
+                             │                                           │
+                             ▼                                           │
+          ┌─────────────────────────────────────┐                        │
+          │  How long is the first plan year?   │                        │
+          └─────────────────────────────────────┘                        │
+                   │                    │                                │
+          7 MONTHS OR LESS         MORE THAN 7 MONTHS                    │
+          (Short Plan Year)                │                             │
+                   │                       │                             │
+                   ▼                       ▼                             │
+    ┌──────────────────────┐  ┌──────────────────────┐                   │
+    │ Count participants   │  │ Count participants   │                   │
+    │ WITH ACCOUNT         │  │ WITH ACCOUNT         │                   │
+    │ BALANCES at          │  │ BALANCES at          │                   │
+    │ YEAR-END             │  │ YEAR-END             │                   │
+    └──────────────────────┘  └──────────────────────┘                   │
+           │         │              │         │                          │
+         <100      100+           <100      100+                         │
+           │         │              │         │                          │
+           ▼         ▼              ▼         ▼                          │
+    ┌──────────┐ ┌───────────┐ ┌──────────┐ ┌───────────┐                │
+    │ NO AUDIT │ │ AUDIT CAN │ │ NO AUDIT │ │ AUDIT     │                │
+    │          │ │ BE        │ │          │ │ REQUIRED  │                │
+    │ File as  │ │ DEFERRED  │ │ File as  │ │           │                │
+    │ small    │ │ to Year 2 │ │ small    │ │ Full year │                │
+    │ plan     │ │           │ │ plan     │ │ - no      │                │
+    │          │ │ Combined  │ │          │ │ deferral  │                │
+    │          │ │ audit for │ │          │ │ allowed   │                │
+    │          │ │ both years│ │          │ │           │                │
+    └──────────┘ └───────────┘ └──────────┘ └───────────┘                │
+                                                                         │
+    ┌────────────────────────────────────────────────────────────────────┘
+    │
+    │  EXISTING PLAN (Not First Year)
+    ▼
+    ┌───────────────────────────────────────────────────┐
+    │  How many participants WITH ACCOUNT BALANCES      │
+    │  at BEGINNING of plan year (1/1 for calendar)?    │
+    └───────────────────────────────────────────────────┘
+                          │
+            ┌─────────────┼─────────────┐
+            │             │             │
+            ▼             ▼             ▼
+       ┌────────┐    ┌────────┐    ┌────────┐
+       │  121+  │    │ 80-120 │    │  <80   │
+       └────────┘    └────────┘    └────────┘
+            │             │             │
+            ▼             │             ▼
+    ┌─────────────┐       │     ┌─────────────────────┐
+    │ YES - AUDIT │       │     │ Was PRIOR year      │
+    │ REQUIRED    │       │     │ filed as LARGE?     │
+    │             │       │     └─────────────────────┘
+    │ No          │       │           │          │
+    │ exceptions  │       │          YES         NO
+    └─────────────┘       │           │          │
+                          │           ▼          ▼
+                          │    ┌──────────┐ ┌──────────┐
+                          │    │ AUDIT    │ │ NO AUDIT │
+                          │    │ REQUIRED │ │          │
+                          │    │          │ │ File as  │
+                          │    │ Stay     │ │ small    │
+                          │    │ large    │ │ plan     │
+                          │    │ until <80│ │          │
+                          │    └──────────┘ └──────────┘
+                          │
+                          ▼
+          ┌───────────────────────────────────┐
+          │  What was PRIOR year filed as?    │
+          └───────────────────────────────────┘
+                   │                │
+            SMALL PLAN         LARGE PLAN
+                   │                │
+                   ▼                ▼
+        ┌─────────────────┐  ┌─────────────────┐
+        │ NO AUDIT        │  │ AUDIT           │
+        │ REQUIRED        │  │ REQUIRED        │
+        │                 │  │                 │
+        │ Stay small      │  │ Once large,     │
+        │ until 121+      │  │ stay large      │
+        │                 │  │ until <80       │
+        └─────────────────┘  └─────────────────┘
 ```
+
+### First Plan Year Rules - CRITICAL DISTINCTION
+
+**First-year plans are NOT automatically exempt.** The rules depend on plan year length:
+
+| Plan Year Length | Participant Count Timing | Result if 100+ Participants |
+|------------------|--------------------------|------------------------------|
+| More than 7 months | Count at **END** of plan year | Audit **REQUIRED** this year |
+| 7 months or less | Count at **END** of plan year | Audit can be **DEFERRED** to Year 2 |
+
+**Why count at year-end for new plans?** A brand new plan has zero participants at the beginning—there are no accounts yet. So for the first plan year only, the count is based on participants with account balances at the **end** of the plan year.
+
+### The 7-Month Short Plan Year Deferral (29 CFR 2520.104-50)
+
+If your plan's first year is **7 months or less**, you may **defer** (not waive) the audit:
+
+- **Deferral means**: The audit is postponed to the following year, not eliminated
+- **Combined audit**: The second year's audit will cover BOTH plan years
+- **Example**: Plan effective October 1, 2024 (calendar year-end). The 3-month short year audit can be deferred and combined with the 2025 audit
+- **Still required**: If 100+ participants with balances at year-end, you still need an audit—just combined with the next year
+
+**Important**: This is a DEFERRAL, not an exemption. The plan will still be audited.
 
 ### Quick Scenarios Table
 
-| Scenario | Prior Year Filing | Current Participants | Audit Required? |
-|----------|-------------------|---------------------|-----------------|
-| Growing plan | Small plan | 100-120 | **NO** - Can stay small |
-| Growing plan | Small plan | 121+ | **YES** - Must file large |
-| Shrinking plan | Large plan | 100-120 | **YES** - Must stay large |
-| Shrinking plan | Large plan | 80-99 | **YES** - Must stay large |
-| Shrinking plan | Large plan | <80 | **NO** - Can file small |
-| Stable small | Small plan | <100 | **NO** - Stay small |
-| Stable large | Large plan | 100+ | **YES** - Stay large |
-| New plan | N/A (first year) | Any count | **NO** - First year exempt |
+| Scenario | Prior Year Filing | Participants (with balances) | Audit Required? |
+|----------|-------------------|------------------------------|-----------------|
+| Growing plan | Small plan | 100-120 at BOY | **NO** - Can stay small |
+| Growing plan | Small plan | 121+ at BOY | **YES** - Must file large |
+| Shrinking plan | Large plan | 100-120 at BOY | **YES** - Must stay large |
+| Shrinking plan | Large plan | 80-99 at BOY | **YES** - Must stay large |
+| Shrinking plan | Large plan | <80 at BOY | **NO** - Can file small |
+| Stable small | Small plan | <100 at BOY | **NO** - Stay small |
+| Stable large | Large plan | 100+ at BOY | **YES** - Stay large |
+| New plan (>7 mo) | N/A | <100 at EOY | **NO** - File as small |
+| New plan (>7 mo) | N/A | 100+ at EOY | **YES** - Audit required |
+| New plan (≤7 mo) | N/A | <100 at EOY | **NO** - File as small |
+| New plan (≤7 mo) | N/A | 100+ at EOY | **DEFERRED** - Combined with Year 2 audit |
+
+*BOY = Beginning of Year; EOY = End of Year*
 
 ### Quick Reference Rules
 
-1. **121+ participants = Always need an audit** (no exceptions)
-2. **Under 80 participants = Never need an audit** (unless special circumstances)
-3. **80-120 participants = Depends on prior year filing status**
-4. **First year of plan = Generally exempt** (regardless of participant count)
-5. **"Once large, stay large"** until you drop below 80 participants
+1. **121+ participants with balances = Always need an audit** (no exceptions)
+2. **Under 80 participants with balances = Never need an audit** (unless prior year was large)
+3. **80-120 participants = Depends on prior year filing status** (80-120 rule)
+4. **First year of plan = Based on YEAR-END count** (not exempt—count at year-end, not beginning)
+5. **Short plan year (≤7 months) = Can DEFER audit** (not exempt—combined audit covers 2 years)
+6. **"Once large, stay large"** until you drop below 80 participants
+7. **Since 2023: Count only participants with account balances** (not all eligible employees)
 
 ### Common Mistakes to Avoid
 
 | Mistake | Reality |
 |---------|---------|
-| "We only have 95 people contributing" | Count **eligible** participants, not just those deferring |
+| "We only count eligible employees" | **OUTDATED** - Since 2023, count only participants **with account balances** |
 | "We're at 115, we were 98 last year, no audit needed" | Correct! The 80-120 rule protects you |
 | "We dropped to 85 from 130, we're under 100!" | Wrong - you need 79 or fewer to drop out of audit |
-| "Our new plan has 200 employees" | First year is exempt, but next year you'll need an audit |
+| "Our new plan started July 1 with 200 employees, no audit" | **WRONG** - Count at year-end. If 100+ have balances at 12/31, audit is required (plan year >7 months, no deferral) |
+| "Our plan started Oct 1, 150 employees, first year exempt" | **WRONG** - Can DEFER to Year 2, but audit still required (covers both years) |
+| "First-year plans are exempt from audits" | **WRONG** - First-year plans use year-end count; audit required if 100+ |
 
 ### Still Unsure?
 
 When in doubt:
 1. Pull your prior year Form 5500
-2. Look at Line 5 (small plan checkbox) or Line 6g (participant count)
-3. Count your current eligible participants as of 1/1
-4. Follow the decision tree above
+2. Look at Line 5 (small plan checkbox) or Line 6 (participant count with balances)
+3. Count your current participants **with account balances** as of 1/1
+4. For first-year plans, count participants with balances at **year-end**
+5. Follow the decision tree above
 
 ---
 
@@ -145,37 +214,55 @@ When in doubt:
 
 ### Basic Threshold
 
-A 401(k) plan requires an annual audit when it has **100 or more eligible participants** at the beginning of the plan year.
+A 401(k) plan requires an annual audit when it has **100 or more participants with account balances** at the beginning of the plan year.
 
-### Who Counts as a Participant
+### 2023 Regulatory Change - IMPORTANT
 
-**Include:**
+**Effective for plan years beginning January 1, 2023**, the DOL changed the participant counting methodology under 29 CFR 2520.103-1:
+
+| Rule | Before 2023 | After 2023 |
+|------|-------------|------------|
+| Who to count | All **eligible** participants | Only participants **with account balances** |
+| Zero-balance accounts | Counted | Not counted |
+| Eligible but not enrolled | Counted | Not counted |
+| Impact | Higher participant counts | Lower participant counts |
+
+This change was made in anticipation of long-term part-time (LTPT) employee requirements under SECURE 2.0, which will make more employees eligible but may not result in contributions.
+
+### Who Counts as a Participant (Post-2023)
+
+**Include (Participants WITH Account Balances):**
 
 | Category | Description |
 |----------|-------------|
-| Active with balance | Currently employed with account balance |
-| Active without balance | Eligible, enrolled, but $0 balance |
-| Eligible not enrolled | Met eligibility, declined to participate |
-| Terminated with balance | Former employees owed benefits |
+| Active with balance | Currently employed with account balance > $0 |
+| Terminated with balance | Former employees with remaining account balance |
 | Retired with balance | Retirees with remaining account balance |
 | Deceased with benefits owed | Accounts pending distribution to beneficiaries |
-| Participants on leave | Those on leave of absence |
+| Participants on leave with balance | Those on leave with account balance > $0 |
 
 **Exclude:**
 
 | Category | Reason |
 |----------|--------|
-| Terminated with $0 | No longer owed benefits |
+| Active without balance | No account balance to count (new 2023 rule) |
+| Eligible not enrolled | No account balance (new 2023 rule) |
+| Terminated with $0 | No account balance |
 | Ineligible employees | Haven't met eligibility requirements |
 | Beneficiaries | Count participant, not multiple beneficiaries |
-| Former participants paid out | Received full distribution |
+| Former participants paid out | Received full distribution, $0 balance |
 
 ### Counting Date
 
+**For Existing Plans:**
 - Count is as of **first day of plan year**
 - For calendar year: January 1
 - For fiscal year: First day of fiscal year
 - Count determines entire year's requirement
+
+**For First Plan Year:**
+- Count is as of **last day of the plan year** (since no participants have balances at the beginning of a new plan)
+- See [First Plan Year Rules](#first-plan-year-rules---critical-distinction) for details
 
 ### Voluntary Audit Exception
 
@@ -237,19 +324,38 @@ May file as small plan without audit
 
 ### First Year Plans
 
-New plans:
-- Count at beginning of plan year
-- Usually 0 or few participants at start
-- No audit typically required first year
-- Monitor growth carefully
+**First-year plans follow DIFFERENT rules than existing plans:**
+
+| Rule | Existing Plans | First-Year Plans |
+|------|----------------|------------------|
+| Count timing | Beginning of year | **End of year** |
+| Why | Prior year baseline exists | No participants at beginning of new plan |
+| Audit trigger | 100+ at BOY | 100+ at EOY |
+
+**Short Plan Year Deferral (29 CFR 2520.104-50):**
+- If the first plan year is **7 months or less**, the audit can be **deferred** to Year 2
+- The Year 2 audit will cover **both** plan years
+- This is a deferral, NOT an exemption—audit is still required
+
+**Examples:**
+
+| Effective Date | Plan Year End | Plan Year Length | 100+ at EOY? | Result |
+|----------------|---------------|------------------|--------------|--------|
+| January 1, 2025 | December 31, 2025 | 12 months | Yes | Audit required for 2025 |
+| January 1, 2025 | December 31, 2025 | 12 months | No | No audit required |
+| July 1, 2025 | December 31, 2025 | 6 months | Yes | Can defer audit to 2026 (covers both years) |
+| July 1, 2025 | December 31, 2025 | 6 months | No | No audit required |
+| September 1, 2025 | December 31, 2025 | 4 months | Yes | Can defer audit to 2026 (covers both years) |
 
 ### Documentation
 
 Maintain records showing:
-- Beginning of year participant count
-- Methodology for counting
+- Beginning of year participant count (with account balances)
+- End of year participant count (for first plan year)
+- Methodology for counting (participants with balances, per 2023 rules)
 - Categories included/excluded
 - Support for 80-120 election
+- Short plan year deferral election (if applicable)
 
 ---
 
