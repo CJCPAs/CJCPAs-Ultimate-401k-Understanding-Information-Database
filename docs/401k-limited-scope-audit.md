@@ -326,6 +326,8 @@ Maintain records of:
 | Multiple custodians | Get multiple certifications |
 | Non-qualifying institution | Full scope for those assets |
 
+**See Also:** [Case Study 13: Mid-Year TPA Change with Partial Certification](401k-case-studies.md#case-study-13-mid-year-tpa-change-with-partial-certification) - Detailed guidance on handling a hybrid audit when certification is only available for part of the plan year due to a service provider change.
+
 ### Reconciliation Issues
 
 | Issue | Action |
@@ -364,7 +366,10 @@ SAS 136 (effective December 15, 2021) brought:
 - [Audit Requirements](401k-audit-requirements.md)
 - [Audit Reports](401k-audit-reports.md)
 - [Audit Process](401k-audit-process.md)
+- [Case Studies](401k-case-studies.md) - Real-world scenarios including:
+  - Case Study 2: Invalid Certification
+  - Case Study 13: Mid-Year TPA Change with Partial Certification
 
 ---
 
-*Last Updated: 2024*
+*Last Updated: December 2025*

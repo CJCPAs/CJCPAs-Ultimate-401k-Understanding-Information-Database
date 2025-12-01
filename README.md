@@ -1,6 +1,6 @@
 # Ultimate 401(k) Understanding Information Database
 
-**Version 2.1.0 | Updated November 2025 | 36,000+ Lines of Documentation**
+**Version 2.1.1 | Updated December 2025 | 38,000+ Lines of Documentation**
 
 The most comprehensive resource for understanding every detail of 401(k) retirement plans and **401(k) audits** - covering both limited scope and full scope engagements, MEPs, PEPs, and everything in between.
 
@@ -67,7 +67,7 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 ### Part 4E: Reference Materials
 - [Glossary](docs/401k-glossary.md) - Comprehensive A-Z glossary of 401(k) and audit terms
 - [Flowcharts & Decision Trees](docs/401k-flowcharts-decision-trees.md) - Visual guides for audit decisions
-- [Case Studies](docs/401k-case-studies.md) - Real-world scenarios with solutions
+- [Case Studies](docs/401k-case-studies.md) - 14 real-world scenarios with solutions
 - [Quality Control Checklists](docs/401k-quality-control.md) - Engagement and review checklists
 
 ### Part 5: Regulatory & Compliance
@@ -211,7 +211,7 @@ You'll find detailed, actionable information organized for easy reference.
 **Phase 2 - Reference & Learning:**
 - Comprehensive Glossary - 150+ terms from A to Z
 - Flowcharts & Decision Trees - 15 visual decision guides
-- Case Studies - 12 real-world scenarios with solutions
+- Case Studies - 14 real-world scenarios with solutions
 - Quality Control Checklists - Complete review procedures
 
 **Phase 3 - 2025 Plan Year Updates (November 2025):**

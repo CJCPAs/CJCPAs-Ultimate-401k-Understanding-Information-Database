@@ -18,6 +18,8 @@ Real-world scenarios and examples illustrating common audit situations, findings
 10. [Case Study 10: Merger and Acquisition](#case-study-10-merger-and-acquisition)
 11. [Case Study 11: Self-Directed Brokerage Issues](#case-study-11-self-directed-brokerage-issues)
 12. [Case Study 12: Material Weakness Identification](#case-study-12-material-weakness-identification)
+13. [Case Study 13: Mid-Year TPA Change with Partial Certification](#case-study-13-mid-year-tpa-change-with-partial-certification)
+14. [Case Study 14: Amended Adoption Agreement Without Determination Letter](#case-study-14-amended-adoption-agreement-without-determination-letter)
 
 ---
 
@@ -1587,17 +1589,560 @@ anyone other than these specified parties.
 
 ---
 
+## Case Study 13: Mid-Year TPA Change with Partial Certification
+
+### Background
+
+**Plan:** Regional Services 401(k) Plan
+**Participants:** 285
+**Plan Year:** December 31, 20XX
+**Audit Type:** Initially Limited Scope
+**Situation:** TPA changed mid-year; certification only available for partial year
+
+### Facts Discovered
+
+The plan sponsor changed Third Party Administrators (TPAs) during the plan year:
+
+| Period | TPA | Certification Status |
+|--------|-----|---------------------|
+| January 1 – September 30 | ABC Retirement Services | Valid certification provided |
+| October 1 – December 31 | XYZ Benefits Administration | No certification available |
+
+**Reason for Change:** The sponsor switched TPAs due to service quality issues and better pricing from the new provider.
+
+### The Problem
+
+**Former TPA (ABC Retirement Services):**
+- Provided proper ERISA Section 103(a)(3)(C) certification
+- Certification covers January 1 – September 30, 20XX only
+- Certified by qualifying bank trustee (First National Bank)
+- Investment information: $18,450,000 as of 9/30/XX
+
+**New TPA (XYZ Benefits Administration):**
+- Uses a different custodian (Regional Trust Company)
+- Regional Trust Company is willing to provide certification
+- However, they only have records from October 1 forward
+- Cannot certify the full plan year
+- Investment information: $19,875,000 as of 12/31/XX
+
+### Analysis
+
+**Question:** Can we perform a limited scope audit with two partial-year certifications?
+
+**Answer:** No. ERISA Section 103(a)(3)(C) requires certification covering the **entire plan year**. Two partial certifications do not satisfy this requirement.
+
+**Options Available:**
+
+| Option | Description | Audit Impact |
+|--------|-------------|--------------|
+| **Option A** | Full scope audit for entire year | Test all investments for 12 months |
+| **Option B** | Hybrid approach | Limited scope for certified period; full scope for uncertified period |
+| **Option C** | Delay audit | Wait for combined certification (not possible with different custodians) |
+
+**Recommended Approach: Option B – Hybrid Audit**
+
+This is the most practical and cost-effective approach when:
+- One period has valid certification from a qualifying institution
+- The uncertified period is relatively short (3 months)
+- Testing the uncertified period is feasible
+
+### Hybrid Audit Procedures
+
+**For Certified Period (January 1 – September 30):**
+
+| Procedure | Scope |
+|-----------|-------|
+| Investment existence | Rely on certification |
+| Investment valuation | Rely on certification |
+| Investment transactions | Rely on certification |
+| Compare certification to records | Required |
+
+**For Uncertified Period (October 1 – December 31):**
+
+| Procedure | Scope |
+|-----------|-------|
+| Investment existence | Confirm with custodian |
+| Investment valuation | Verify fair values at 12/31 |
+| Investment transactions | Test purchases, sales, income |
+| Reconcile to certified balances | Required |
+
+### Detailed Testing for Uncertified Period
+
+**1. Beginning Balance Verification (October 1)**
+
+```
+Per ABC certification (9/30/XX):     $18,450,000
+Per XYZ records (10/1/XX):           $18,450,000
+Difference:                          $0
+
+RECONCILED ✓
+```
+
+**2. Investment Existence Testing**
+
+Confirmed all investment positions with Regional Trust Company as of 12/31/XX:
+
+| Investment Type | Quantity | Value per Statement | Confirmed |
+|-----------------|----------|---------------------|-----------|
+| Vanguard 500 Index | 45,678 shares | $8,234,567 | ✓ |
+| Bond Fund | 123,456 shares | $4,567,890 | ✓ |
+| Target Date Funds | Various | $5,123,456 | ✓ |
+| Stable Value | N/A | $1,949,087 | ✓ |
+| **Total** | | **$19,875,000** | ✓ |
+
+**3. Investment Valuation Testing**
+
+For each investment, verified fair value as of 12/31/XX:
+
+| Investment | Plan Value | Quoted Price/NAV | Source | Variance |
+|------------|------------|------------------|--------|----------|
+| Vanguard 500 | $8,234,567 | $180.25/share | Vanguard | $0 |
+| Bond Fund | $4,567,890 | $37.00/share | Provider | $0 |
+| Target Funds | $5,123,456 | Various | Provider | $0 |
+| Stable Value | $1,949,087 | Contract value | Contract | $0 |
+
+**4. Investment Transaction Testing (Q4)**
+
+Tested sample of 25 transactions during October – December:
+
+| Transaction Type | Count Tested | Exceptions |
+|------------------|--------------|------------|
+| Participant contributions | 10 | None |
+| Investment purchases | 5 | None |
+| Benefit payments | 5 | None |
+| Investment sales | 3 | None |
+| Dividend reinvestments | 2 | None |
+
+### Financial Statement Presentation
+
+No special presentation is required in the financial statements. The statements present year-end balances and annual activity regardless of the audit approach.
+
+### Audit Report – Modified for Hybrid Approach
+
+```
+              INDEPENDENT AUDITOR'S REPORT
+
+To the Plan Administrator and Plan Participants
+Regional Services 401(k) Plan
+
+Scope and Nature of the Audit
+
+We have audited the financial statements of the Regional Services
+401(k) Plan (the "Plan"), which comprise the statements of net
+assets available for benefits as of December 31, 20XX and 20XX-1,
+and the related statements of changes in net assets available for
+benefits for the years then ended, and the related notes to the
+financial statements.
+
+ERISA-Permitted Limited Scope Audit – Partial Year
+
+As permitted by 29 CFR 2520.103-8 of the Department of Labor's
+Rules and Regulations for Reporting and Disclosure under ERISA,
+and as elected by the plan administrator, we were instructed not
+to perform, and we did not perform, any auditing procedures with
+respect to the certified investment information for the period
+January 1, 20XX through September 30, 20XX, which was certified
+by First National Bank, the custodian of the Plan during that
+period. We were informed that the custodian is a bank regulated
+by a federal agency and that the certification required by
+29 CFR 2520.103-8 has been received for this period.
+
+Full Scope Audit Procedures – Partial Year
+
+Due to a change in plan service providers during the year, no
+certification meeting the requirements of 29 CFR 2520.103-8 was
+available for the period October 1, 20XX through December 31, 20XX.
+Accordingly, we performed full scope auditing procedures with
+respect to the investment information for this period, including
+confirming investments held with the custodian and verifying fair
+values as of December 31, 20XX.
+
+[Standard sections continue...]
+
+Emphasis of Matter – Change in Service Providers
+
+As discussed in Note X to the financial statements, the Plan
+changed its third-party administrator and custodian effective
+October 1, 20XX. Our opinion is not modified with respect to
+this matter.
+
+[Opinion section – unmodified opinion appropriate if no exceptions]
+```
+
+### Note Disclosure
+
+```
+Note X: Change in Service Providers
+
+Effective October 1, 20XX, the Plan changed its third-party
+administrator from ABC Retirement Services to XYZ Benefits
+Administration. Concurrently, plan assets were transferred from
+First National Bank to Regional Trust Company.
+
+Total assets transferred on October 1, 20XX: $18,450,000
+
+Due to the mid-year service provider change, the independent
+auditor performed limited scope audit procedures for the period
+January 1 through September 30, 20XX, relying on the certification
+provided by First National Bank, and full scope audit procedures
+for the period October 1 through December 31, 20XX.
+```
+
+### Audit Documentation
+
+```
+Finding: Mid-Year TPA Change Requiring Hybrid Audit Approach
+
+Situation: The Plan changed third-party administrators and
+custodians effective October 1, 20XX. The former custodian
+(First National Bank) provided a valid ERISA 103(a)(3)(C)
+certification for January 1 – September 30. The new custodian
+(Regional Trust Company) could not provide a certification
+covering the full plan year.
+
+Resolution: Performed hybrid audit:
+- Limited scope procedures for January 1 – September 30 (9 months)
+  relying on First National Bank certification
+- Full scope investment procedures for October 1 – December 31
+  (3 months) including existence confirmation and valuation testing
+
+Result: No exceptions noted. Investment balances properly
+reconciled between custodians. Report includes Emphasis of
+Matter paragraph regarding service provider change.
+
+Additional Testing Performed:
+- Confirmed $18,450,000 transfer between custodians
+- Tested 25 investment transactions during Q4
+- Verified all 12/31/XX investment valuations
+- Reconciled participant accounts across TPA transition
+```
+
+### Key Takeaways
+
+- Two partial-year certifications do NOT satisfy ERISA 103(a)(3)(C)
+- Hybrid approach allows limited scope for certified period
+- Full investment testing required for uncertified period
+- Report should include Emphasis of Matter for service provider change
+- Document reconciliation of assets transferred between custodians
+- Financial statement notes should disclose the situation
+
+---
+
+## Case Study 14: Amended Adoption Agreement Without Determination Letter
+
+### Background
+
+**Plan:** Professional Services 401(k) Plan
+**Participants:** 175
+**Plan Year:** December 31, 20XX
+**Plan Document Type:** Volume Submitter / Pre-approved Plan
+**Situation:** Adoption agreement amended during year; no new Determination Letter obtained
+
+### Facts Discovered
+
+During review of plan documents, you discover:
+
+**Original Plan:**
+- Established: January 1, 20XX-5
+- Last IRS Determination Letter: March 15, 20XX-4
+- Document Type: Volume Submitter (pre-approved)
+
+**Amendment:**
+- Amendment Date: July 1, 20XX
+- Amendment Number: 2020-1
+- Signed by: Plan Sponsor CEO
+
+**Amendment Content:**
+
+```
+Amendment 2020-1 to the Professional Services 401(k) Plan
+
+Effective July 1, 20XX, the Plan is amended as follows:
+
+1. Section 4.1(b) is amended to change the employer matching
+   contribution formula from:
+
+   "50% of the first 6% of compensation deferred"
+
+   to:
+
+   "100% of the first 4% of compensation deferred"
+
+2. Section 5.3 is amended to change the vesting schedule for
+   employer contributions from:
+
+   "6-year graded vesting"
+
+   to:
+
+   "3-year cliff vesting"
+
+All other provisions of the Plan remain unchanged.
+```
+
+### The Question
+
+**Plan Administrator's Concern:**
+> "Our attorney said we should get a new Determination Letter from the IRS, but we haven't done that yet. Does this affect the audit?"
+
+### Analysis Framework
+
+**When is a new Determination Letter required?**
+
+| Situation | Determination Letter Required? |
+|-----------|-------------------------------|
+| Discretionary amendment to pre-approved plan | Generally NO |
+| Changing to a different pre-approved plan | Generally NO |
+| Significant customization outside plan boundaries | YES |
+| Individually designed plan amendments | Recommended |
+| Response to IRS examination | Depends on findings |
+
+**Evaluating This Amendment:**
+
+| Change | Significance | Within Pre-Approved Terms? |
+|--------|--------------|---------------------------|
+| Match formula (50%/6% → 100%/4%) | Common provision | YES – typical elective choice |
+| Vesting (6-year graded → 3-year cliff) | Common provision | YES – IRS-permitted schedule |
+
+### IRS Determination Letter Program Background
+
+**Key Points:**
+
+1. **Pre-approved plans** (prototype and volume submitter) receive Opinion Letters or Advisory Letters that cover the plan document
+2. **Adopting employers** may rely on the plan's Opinion/Advisory Letter
+3. **Discretionary amendments** using options already in the pre-approved document do not require a new Determination Letter
+4. **Significant modifications** outside the plan's pre-approved language may require individual Determination Letter
+
+### Auditor's Evaluation
+
+**Step 1: Review the Amendment**
+
+```
+Amendment Analysis:
+
+Change 1: Matching Formula
+- Old: 50% of first 6%
+- New: 100% of first 4%
+- Question: Is this a standard adoption agreement choice?
+- Answer: YES – Both are typical match formulas within
+          pre-approved plan options
+
+Change 2: Vesting Schedule
+- Old: 6-year graded
+- New: 3-year cliff
+- Question: Is this a permitted vesting schedule?
+- Answer: YES – 3-year cliff meets IRC 411(a)(2)(A) minimum
+          and is a standard adoption agreement option
+
+CONCLUSION: Both changes are discretionary amendments using
+options within the pre-approved plan document. No new
+Determination Letter is required.
+```
+
+**Step 2: Verify Plan Qualification**
+
+Even without a new Determination Letter, verify:
+
+| Item | Procedure | Result |
+|------|-----------|--------|
+| Amendment properly adopted | Review board resolution | ✓ Approved 6/15/XX |
+| Amendment within plan authority | Compare to Volume Submitter | ✓ Options permitted |
+| Effective date reasonable | Check for anti-cutback issues | ✓ Prospective only |
+| Participant notice provided | Review SMM distribution | ✓ Sent 6/20/XX |
+| Vesting change properly handled | Check 411(d)(6) compliance | ✓ See below |
+
+**Step 3: Anti-Cutback Analysis (IRC 411(d)(6))**
+
+The vesting schedule change requires analysis:
+
+```
+IRC 411(d)(6) Anti-Cutback Rule:
+
+Question: Does changing from 6-year graded to 3-year cliff
+violate anti-cutback rules?
+
+Analysis:
+- New schedule (3-year cliff) is MORE generous than old
+  (6-year graded) for most participants
+- However, some participants may have higher vesting under
+  old schedule (e.g., 4 years of service = 60% under graded,
+  0% under cliff)
+
+Requirement: Participants must receive the GREATER of:
+- Vesting under old schedule (for pre-amendment service)
+- Vesting under new schedule
+
+Documentation Check:
+- Amendment states new schedule is prospective
+- Plan records show "protected" vesting percentages
+- Tested 10 participants with 1-5 years of service:
+  All show higher of two schedules applied
+
+RESULT: 411(d)(6) properly applied ✓
+```
+
+### Resolution
+
+**Determination Letter Not Required**
+
+Based on our analysis:
+
+1. Both amendments are discretionary changes using pre-approved plan options
+2. The Volume Submitter Opinion Letter remains valid
+3. No individual Determination Letter is required
+4. No financial statement disclosure is necessary regarding the lack of Determination Letter
+
+**Documentation Required**
+
+Include in management representation letter:
+
+```
+Management Representations - Plan Qualification:
+
+We represent that:
+
+(a) The Plan is intended to qualify under IRC Section 401(a)
+    and the related trust is intended to be exempt under
+    IRC Section 501(a).
+
+(b) The Plan is operated in accordance with a pre-approved
+    volume submitter plan document for which a favorable
+    IRS Opinion Letter has been issued to the plan sponsor.
+
+(c) Amendment 2020-1, effective July 1, 20XX, was adopted
+    pursuant to discretionary provisions within the pre-approved
+    plan document and does not require an individual
+    Determination Letter from the IRS.
+
+(d) The amendment was properly adopted by the Plan Sponsor
+    with appropriate board authorization.
+
+(e) The vesting schedule change complies with IRC Section
+    411(d)(6), with affected participants receiving the greater
+    of their vested percentage under the prior or new schedule.
+
+(f) Participants were notified of the amendment through a
+    Summary of Material Modifications distributed on June 20, 20XX.
+```
+
+### When WOULD a Determination Letter Be Required?
+
+For comparison, here are amendments that WOULD require action:
+
+| Amendment Type | Determination Letter? | Alternative |
+|----------------|----------------------|-------------|
+| Change plan type (e.g., add cash balance) | YES | Or adopt new pre-approved document |
+| Add ESOP features | YES | Specialized plan |
+| Significant customization of provisions | YES | Individual DL application |
+| Correct qualification failure | DEPENDS | May use VCP instead |
+| Convert from pre-approved to individually designed | YES | Required for ongoing reliance |
+
+### Financial Statement Impact
+
+**Disclosure Required?** NO
+
+Since the amendment:
+- Was properly adopted
+- Falls within pre-approved plan options
+- Does not affect the plan's tax-qualified status
+- Does not create uncertainty about qualification
+
+No disclosure regarding the Determination Letter is necessary.
+
+**Note Disclosure for Amendment (Required):**
+
+```
+Note X: Plan Amendments
+
+Effective July 1, 20XX, the Plan was amended to:
+
+1. Change the employer matching contribution formula from
+   50% of the first 6% of participant deferrals to 100%
+   of the first 4% of participant deferrals.
+
+2. Change the vesting schedule for employer contributions
+   from a 6-year graded schedule to a 3-year cliff schedule.
+
+Participants with service prior to July 1, 20XX, are entitled
+to the greater vested percentage under either the prior or
+new vesting schedule.
+```
+
+### Audit Documentation
+
+```
+Plan Document Review - Amendment Analysis
+
+Document: Amendment 2020-1
+Effective Date: July 1, 20XX
+Board Resolution: June 15, 20XX
+
+Changes Made:
+1. Matching formula: 50%/6% → 100%/4%
+2. Vesting schedule: 6-year graded → 3-year cliff
+
+Analysis:
+- Both changes are discretionary options within the Volume
+  Submitter pre-approved plan document
+- Changes do not require modification of language beyond
+  standard adoption agreement elections
+- Volume Submitter Opinion Letter remains valid
+- Individual IRS Determination Letter is NOT required
+
+Anti-Cutback Compliance:
+- Tested 10 participants with 1-5 years of service
+- All participant accounts reflect greater of prior or
+  new vesting percentage
+- IRC 411(d)(6) requirements satisfied
+
+Participant Notification:
+- SMM distributed June 20, 20XX (verified)
+- Distribution list retained in plan records
+
+Conclusion:
+- Amendment properly adopted and documented
+- No Determination Letter required for pre-approved plan options
+- Management representations obtained regarding qualification
+- No financial statement disclosure required for DL status
+- Standard amendment disclosure included in notes
+```
+
+### Key Takeaways
+
+- Not all amendments require a new IRS Determination Letter
+- Pre-approved plan (Volume Submitter/Prototype) discretionary amendments generally do not require individual Determination Letters
+- Evaluate whether amendments fall within pre-approved plan options
+- Always check anti-cutback (411(d)(6)) compliance for vesting changes
+- Obtain management representations regarding plan qualification
+- Document your analysis of whether Determination Letter is needed
+- Standard plan amendment disclosures in notes are still required
+
+### When to Recommend a Determination Letter
+
+Advise clients to seek a Determination Letter when:
+
+1. Converting from pre-approved to individually designed plan
+2. Making significant modifications outside pre-approved options
+3. Plan has never had a Determination Letter
+4. Concerns about plan qualification
+5. Major corporate transactions (merger, acquisition, spin-off)
+6. In connection with plan termination
+
+---
+
 ## Summary: Common Themes Across Case Studies
 
 | Theme | Case Studies | Key Lesson |
 |-------|--------------|------------|
-| Documentation | 1, 5, 7 | Proper documentation prevents findings |
+| Documentation | 1, 5, 7, 14 | Proper documentation prevents findings |
 | Timeliness | 1, 3, 6 | Meet all deadlines |
 | Controls | 4, 12 | Strong controls prevent errors |
 | Related parties | 7 | Extra scrutiny required |
-| Compliance | 3, 4, 5 | Know the rules |
-| Communication | 8, 9, 10 | Transparency is essential |
+| Compliance | 3, 4, 5, 14 | Know the rules |
+| Communication | 8, 9, 10, 13 | Transparency is essential |
 | Correction | All | Most issues can be corrected |
+| Service provider changes | 10, 13 | Plan transitions require careful handling |
+| Plan documents | 2, 14 | Verify certifications and amendments |
 
 ---
 
@@ -1605,7 +2150,8 @@ anyone other than these specified parties.
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 1.0 | 2024 | Initial release |
+| 1.0 | 2024 | Initial release with 12 case studies |
+| 1.1 | 2025 | Added Case Study 13 (Mid-Year TPA Change with Partial Certification) and Case Study 14 (Amended Adoption Agreement Without Determination Letter) |
 
 ---
 

@@ -315,6 +315,8 @@ IRS determination letter:
 | Plan termination | Final determination |
 | Major changes | May request letter |
 
+**Important:** Not all plan amendments require a new Determination Letter. Discretionary amendments to pre-approved plans (Prototype or Volume Submitter) using options within the approved document generally do not require an individual Determination Letter. See [Case Study 14: Amended Adoption Agreement Without Determination Letter](401k-case-studies.md#case-study-14-amended-adoption-agreement-without-determination-letter) for detailed guidance on evaluating when a Determination Letter is required.
+
 ### Application Process
 
 For individually designed plans:
@@ -375,7 +377,9 @@ Time to correct document defects:
 - [ERISA Requirements](401k-erisa.md)
 - [Plan Administration](401k-administration.md)
 - [Participant Communications](401k-participant-communications.md)
+- [Case Studies](401k-case-studies.md) - Real-world scenarios including:
+  - Case Study 14: Amended Adoption Agreement Without Determination Letter
 
 ---
 
-*Last Updated: 2024*
+*Last Updated: December 2025*

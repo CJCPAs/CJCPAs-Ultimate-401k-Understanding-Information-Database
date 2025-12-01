@@ -14,6 +14,30 @@ This document tracks all updates to the Ultimate 401(k) Understanding Informatio
 
 ---
 
+## Version 2.1.1 - December 2025
+
+### 🆕 New Case Studies Added
+
+Added two new critical audit scenarios based on practitioner feedback:
+
+**Case Study 13: Mid-Year TPA Change with Partial Certification**
+- Addresses scenario where TPA changes mid-year (e.g., 9th month)
+- Former TPA provides certification for partial year only
+- New TPA cannot provide certification for remaining months
+- Guidance on hybrid audit approach (limited scope + full scope)
+- Sample audit report with Emphasis of Matter paragraph
+- Note disclosure templates
+
+**Case Study 14: Amended Adoption Agreement Without Determination Letter**
+- Addresses plan amendments without updated IRS Determination Letter
+- When a new Determination Letter IS vs. IS NOT required
+- Pre-approved plan (Volume Submitter/Prototype) discretionary amendments
+- Anti-cutback (IRC 411(d)(6)) compliance analysis
+- Management representation language
+- Financial statement disclosure requirements
+
+---
+
 ## Version 2.1.0 - November 2025
 
 ### 🆕 State-Specific Considerations (NEW)
@@ -264,6 +288,7 @@ Use this checklist each year to ensure the database stays current:
 
 | Version | Date | Summary |
 |---------|------|---------|
+| 2.1.1 | Dec 2025 | Added Case Studies 13 & 14 (TPA change, Determination Letter scenarios) |
 | 2.1.0 | Nov 2025 | Added state-specific considerations (all 50 states) |
 | 2.0.0 | Nov 2025 | 2025 plan year update; added 10 new documents; added external resources and changelog |
 | 1.0.0 | Nov 2025 | Initial release with 35 core documents |
