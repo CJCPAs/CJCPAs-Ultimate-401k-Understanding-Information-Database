@@ -17,6 +17,8 @@ A 401(k) plan is a tax-advantaged, defined contribution retirement savings plan 
 9. [Plan Year](#plan-year)
 10. [Glossary of Terms](#glossary-of-terms)
 
+**Quick Link:** [Do I Need a 401(k) Audit This Year?](401k-audit-requirements.md#do-i-need-a-401k-audit-this-year) - Decision tree and 80-120 rule explained
+
 ---
 
 ## History and Evolution
@@ -474,4 +476,4 @@ Special rules apply for contribution limits and testing in short plan years.
 
 ---
 
-*Last Updated: 2024*
+*Last Updated: December 2025*
