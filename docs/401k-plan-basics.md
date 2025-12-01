@@ -6,16 +6,158 @@ A 401(k) plan is a tax-advantaged, defined contribution retirement savings plan 
 
 ## Table of Contents
 
-1. [History and Evolution](#history-and-evolution)
-2. [Key Characteristics](#key-characteristics)
-3. [How 401(k) Plans Work](#how-401k-plans-work)
-4. [Tax Advantages](#tax-advantages)
-5. [Eligibility Requirements](#eligibility-requirements)
-6. [Plan Participants](#plan-participants)
-7. [Employer vs Employee Responsibilities](#employer-vs-employee-responsibilities)
-8. [Plan Establishment](#plan-establishment)
-9. [Plan Year](#plan-year)
-10. [Glossary of Terms](#glossary-of-terms)
+1. [Do I Need a 401(k) Audit This Year?](#do-i-need-a-401k-audit-this-year)
+2. [History and Evolution](#history-and-evolution)
+3. [Key Characteristics](#key-characteristics)
+4. [How 401(k) Plans Work](#how-401k-plans-work)
+5. [Tax Advantages](#tax-advantages)
+6. [Eligibility Requirements](#eligibility-requirements)
+7. [Plan Participants](#plan-participants)
+8. [Employer vs Employee Responsibilities](#employer-vs-employee-responsibilities)
+9. [Plan Establishment](#plan-establishment)
+10. [Plan Year](#plan-year)
+11. [Glossary of Terms](#glossary-of-terms)
+
+---
+
+## Do I Need a 401(k) Audit This Year?
+
+This is one of the most common questions plan sponsors ask. The answer depends on your participant count and filing history. Here's how to figure it out.
+
+### The Simple Answer
+
+**If your plan has 100 or more eligible participants on the first day of the plan year, you generally need an audit.** But there's a transition rule (the "80-120 rule") that provides some flexibility.
+
+### Where to Find Your Participant Count
+
+Look at **Line 6g on your prior year Form 5500**. This shows the number of participants at the beginning of the plan year. For a calendar year plan, this is January 1st.
+
+### The Decision Tree
+
+Follow this flowchart to determine if you need an audit:
+
+```
+                    START HERE
+                        │
+                        ▼
+        ┌───────────────────────────────────┐
+        │  Did your plan START during       │
+        │  this plan year (new plan)?       │
+        └───────────────────────────────────┘
+                   │           │
+                  YES          NO
+                   │           │
+                   ▼           ▼
+        ┌─────────────┐   ┌───────────────────────────────────┐
+        │ First-year  │   │  How many participants on 1/1     │
+        │ plans are   │   │  of the plan year?                │
+        │ generally   │   │  (Check Line 6g of PY 5500)       │
+        │ exempt.     │   └───────────────────────────────────┘
+        │ File as     │              │
+        │ small plan. │     ┌────────┼────────┐
+        └─────────────┘     │        │        │
+                            ▼        ▼        ▼
+                       ┌────────┐ ┌────────┐ ┌────────┐
+                       │  121+  │ │100-120 │ │  <100  │
+                       └────────┘ └────────┘ └────────┘
+                            │        │        │
+                            ▼        ▼        ▼
+        ┌─────────────────────┐     │   ┌─────────────────────┐
+        │                     │     │   │                     │
+        │  YES - AUDIT        │     │   │  Was your PRIOR     │
+        │  REQUIRED           │     │   │  year Form 5500     │
+        │                     │     │   │  filed as a         │
+        │  No exceptions.     │     │   │  LARGE plan?        │
+        │  Period.            │     │   │                     │
+        │                     │     │   └─────────────────────┘
+        └─────────────────────┘     │          │        │
+                                    │         YES       NO
+                                    │          │        │
+                                    │          ▼        ▼
+                                    │   ┌───────────┐ ┌───────────┐
+                                    │   │ Do you    │ │ NO AUDIT  │
+                                    │   │ have 80+  │ │ REQUIRED  │
+                                    │   │ now?      │ │           │
+                                    │   └───────────┘ │ File as   │
+                                    │      │    │     │ small     │
+                                    │     YES   NO    │ plan.     │
+                                    │      │    │     └───────────┘
+                                    ▼      ▼    ▼
+                        ┌───────────────────────────────────┐
+                        │  What was your PRIOR year        │
+                        │  Form 5500 filed as?             │
+                        └───────────────────────────────────┘
+                               │                │
+                        SMALL PLAN         LARGE PLAN
+                               │                │
+                               ▼                ▼
+                    ┌─────────────────┐  ┌─────────────────┐
+                    │                 │  │                 │
+                    │  NO AUDIT       │  │  AUDIT          │
+                    │  REQUIRED       │  │  REQUIRED       │
+                    │                 │  │                 │
+                    │  You can stay   │  │  Once large,    │
+                    │  "small" until  │  │  stay large     │
+                    │  you hit 121+   │  │  until <80      │
+                    │                 │  │                 │
+                    └─────────────────┘  └─────────────────┘
+```
+
+### Understanding the 80-120 Transition Rule
+
+The DOL provides a **transition buffer** so plans don't bounce in and out of audit requirements:
+
+| Scenario | Prior Year Filing | Current Participants | Audit Required? |
+|----------|-------------------|---------------------|-----------------|
+| Growing plan | Small plan | 100-120 | **NO** - Can stay small |
+| Growing plan | Small plan | 121+ | **YES** - Must file large |
+| Shrinking plan | Large plan | 100-120 | **YES** - Must stay large |
+| Shrinking plan | Large plan | 80-99 | **YES** - Must stay large |
+| Shrinking plan | Large plan | <80 | **NO** - Can file small |
+| Stable small | Small plan | <100 | **NO** - Stay small |
+| Stable large | Large plan | 100+ | **YES** - Stay large |
+| New plan | N/A (first year) | Any count | **NO** - First year exempt |
+
+### Quick Reference Rules
+
+1. **121+ participants = Always need an audit** (no exceptions)
+2. **Under 80 participants = Never need an audit** (unless special circumstances)
+3. **80-120 participants = Depends on prior year filing status**
+4. **First year of plan = Generally exempt** (regardless of participant count)
+5. **"Once large, stay large"** until you drop below 80 participants
+
+### What Counts as a "Participant"?
+
+For the participant count on Line 6g, count:
+- Active employees eligible to participate (whether or not they contribute)
+- Terminated employees with account balances
+- Retirees receiving distributions
+- Deceased participants' beneficiaries with remaining balances
+
+**Do NOT count:**
+- Employees not yet eligible (haven't met age/service requirements)
+- Alternate payees under a QDRO (counted separately)
+
+### Common Mistakes to Avoid
+
+| Mistake | Reality |
+|---------|---------|
+| "We only have 95 people contributing" | Count **eligible** participants, not just those deferring |
+| "We're at 115, we were 98 last year, no audit needed" | Correct! The 80-120 rule protects you |
+| "We dropped to 85 from 130, we're under 100!" | Wrong - you need 79 or fewer to drop out of audit |
+| "Our new plan has 200 employees" | First year is exempt, but next year you'll need an audit |
+
+### Still Unsure?
+
+When in doubt:
+1. Pull your prior year Form 5500
+2. Look at Line 5 (small plan checkbox) or Line 6g (participant count)
+3. Count your current eligible participants as of 1/1
+4. Follow the decision tree above
+
+For more details, see:
+- [Audit Requirements](401k-audit-requirements.md) - Complete regulatory details
+- [First-Year Audit Considerations](401k-first-year-audit.md) - New plan guidance
 
 ---
 
@@ -474,4 +616,4 @@ Special rules apply for contribution limits and testing in short plan years.
 
 ---
 
-*Last Updated: 2024*
+*Last Updated: December 2025*
