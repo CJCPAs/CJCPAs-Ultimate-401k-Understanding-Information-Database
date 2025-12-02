@@ -86,11 +86,12 @@ Visual guides and decision trees for navigating complex 401(k) audit decisions. 
  └──────┘  └──────┘    └──────┘     └──────┘   └──────┘
 ```
 
-**Key Points:**
-- Count "eligible" participants, not just those with balances
-- Count at beginning of plan year
+**Key Points (Updated 2023):**
+- Count only participants **with account balances** (not all "eligible" employees)
+- Count at beginning of plan year (for existing plans)
+- For first-year plans, count at **end** of plan year
 - Include terminated participants with balances
-- Exclude participants who could not yet elect to participate
+- Exclude eligible employees who have not enrolled ($0 balance)
 
 ---
 

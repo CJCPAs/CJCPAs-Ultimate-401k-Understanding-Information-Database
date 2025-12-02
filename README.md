@@ -108,7 +108,7 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 | Key Employee (Officer) Threshold | $230,000 |
 | Defined Benefit Limit | $280,000 |
 | Social Security Wage Base | $176,100 |
-| Audit Requirement Threshold | 100+ eligible participants |
+| Audit Requirement Threshold | 100+ participants with account balances |
 
 *SECURE 2.0 enhanced catch-up for ages 60-63 is NOW EFFECTIVE for 2025 plan year
 

@@ -65,18 +65,20 @@ The 401(k) audit serves several critical purposes:
 
 ### Large Plan Requirement
 
-Plans with 100 or more eligible participants at the beginning of the plan year must obtain an audit.
+Plans with 100 or more participants with account balances at the beginning of the plan year must obtain an audit.
 
-### Counting Participants
+**Important - 2023 Rule Change:** Effective for plan years beginning January 1, 2023, the DOL changed the counting methodology. Plans now count only participants **with account balances**, not all "eligible" participants.
 
-**Eligible participants include:**
+### Counting Participants (Post-2023)
+
+**Count these participants (those WITH account balances):**
 - Active participants with account balances
 - Retired or separated participants with balances
 - Deceased participants with beneficiaries owed benefits
-- Participants eligible but not participating
 
-**Does NOT include:**
+**Do NOT count:**
 - Former participants with $0 balances
+- Eligible employees who have not enrolled (no account balance)
 - Individuals not yet meeting eligibility requirements
 - Beneficiaries already receiving full benefits
 
@@ -84,28 +86,29 @@ Plans with 100 or more eligible participants at the beginning of the plan year m
 
 For plans near the threshold:
 
-| Prior Year Count | Current Year Requirement |
-|------------------|-------------------------|
-| Under 100 | Audit not required |
-| 100-120 (was under 100) | May use prior year status |
-| Over 120 | Audit required |
-| 100-120 (was over 120) | May use prior year status |
-| Under 80 | Audit not required |
+| Prior Year Status | Current Year Count | Audit Requirement |
+|-------------------|-------------------|-------------------|
+| Small plan | Under 100 | No audit required |
+| Small plan | 100-120 | May stay small (no audit) |
+| Small plan | Over 120 | Audit required |
+| Large plan | 100+ | Audit required |
+| Large plan | 80-99 | May elect small plan (no audit) |
+| Large plan | Under 80 | No audit required |
 
 **Example:**
 ```
-Plan Year 2023: 95 participants (no audit required)
-Plan Year 2024: 110 participants
-Since 110 is between 100-120 and prior year was under 100,
-plan may file as small plan (no audit required)
+Plan Year 2023: 95 participants with balances (no audit required)
+Plan Year 2024: 110 participants with balances
+Since 110 is between 100-120 and prior year was small plan,
+plan may continue to file as small plan (no audit required)
 
-Plan Year 2025: 125 participants
+Plan Year 2025: 125 participants with balances
 Now exceeds 120, audit required
 ```
 
 ### Small Plan Exemption
 
-Plans with fewer than 100 eligible participants:
+Plans with fewer than 100 participants with account balances:
 - File Form 5500-SF (Short Form)
 - No audit required
 - Must meet additional requirements:
@@ -115,10 +118,12 @@ Plans with fewer than 100 eligible participants:
 
 ### First Year Audit Requirements
 
-New plans:
-- Count participants at beginning of plan year
-- Usually no audit in first year (start with 0)
-- Plan audit when cross threshold
+**First-year plans follow different rules:**
+- Count participants with account balances at **END of plan year** (not beginning)
+- If 100+ at year-end → Audit required (unless short plan year deferral applies)
+- **Short plan year deferral (29 CFR 2520.104-50):** If plan year is 7 months or less, audit can be deferred to Year 2
+
+See [Audit Requirements - First Plan Year Rules](401k-audit-requirements.md#first-plan-year-rules---critical-distinction) for details.
 
 ---
 
