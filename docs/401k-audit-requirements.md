@@ -104,21 +104,12 @@ Follow this flowchart to determine if you need an audit:
             │             │             │
             ▼             │             ▼
     ┌─────────────┐       │     ┌─────────────────────┐
-    │ YES - AUDIT │       │     │ Was PRIOR year      │
-    │ REQUIRED    │       │     │ filed as LARGE?     │
-    │             │       │     └─────────────────────┘
-    │ No          │       │           │          │
-    │ exceptions  │       │          YES         NO
-    └─────────────┘       │           │          │
-                          │           ▼          ▼
-                          │    ┌──────────┐ ┌──────────┐
-                          │    │ AUDIT    │ │ NO AUDIT │
-                          │    │ REQUIRED │ │          │
-                          │    │          │ │ File as  │
-                          │    │ Stay     │ │ small    │
-                          │    │ large    │ │ plan     │
-                          │    │ until <80│ │          │
-                          │    └──────────┘ └──────────┘
+    │ YES - AUDIT │       │     │ NO AUDIT REQUIRED   │
+    │ REQUIRED    │       │     │                     │
+    │             │       │     │ File as small plan  │
+    │ No          │       │     │ regardless of prior │
+    │ exceptions  │       │     │ year status         │
+    └─────────────┘       │     └─────────────────────┘
                           │
                           ▼
           ┌───────────────────────────────────┐
@@ -181,11 +172,11 @@ If your plan's first year is **7 months or less**, you may **defer** (not waive)
 ### Quick Reference Rules
 
 1. **121+ participants with balances = Always need an audit** (no exceptions)
-2. **Under 80 participants with balances = Never need an audit** (unless prior year was large)
-3. **80-120 participants = Depends on prior year filing status** (80-120 rule)
+2. **Under 80 participants with balances = Never need an audit** (regardless of prior year status—you've dropped below the threshold)
+3. **80-120 participants = Depends on prior year filing status** (80-120 rule applies here)
 4. **First year of plan = Based on YEAR-END count** (not exempt—count at year-end, not beginning)
 5. **Short plan year (≤7 months) = Can DEFER audit** (not exempt—combined audit covers 2 years)
-6. **"Once large, stay large"** until you drop below 80 participants
+6. **"Once large, stay large"** applies only while you have 80+ participants
 7. **Since 2023: Count only participants with account balances** (not all eligible employees)
 
 ### Common Mistakes to Avoid
