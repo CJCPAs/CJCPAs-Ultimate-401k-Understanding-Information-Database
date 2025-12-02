@@ -104,21 +104,12 @@ Follow this flowchart to determine if you need an audit:
             │             │             │
             ▼             │             ▼
     ┌─────────────┐       │     ┌─────────────────────┐
-    │ YES - AUDIT │       │     │ Was PRIOR year      │
-    │ REQUIRED    │       │     │ filed as LARGE?     │
-    │             │       │     └─────────────────────┘
-    │ No          │       │           │          │
-    │ exceptions  │       │          YES         NO
-    └─────────────┘       │           │          │
-                          │           ▼          ▼
-                          │    ┌──────────┐ ┌──────────┐
-                          │    │ AUDIT    │ │ NO AUDIT │
-                          │    │ REQUIRED │ │          │
-                          │    │          │ │ File as  │
-                          │    │ Stay     │ │ small    │
-                          │    │ large    │ │ plan     │
-                          │    │ until <80│ │          │
-                          │    └──────────┘ └──────────┘
+    │ YES - AUDIT │       │     │ NO AUDIT REQUIRED   │
+    │ REQUIRED    │       │     │                     │
+    │             │       │     │ File as small plan  │
+    │ No          │       │     │ regardless of prior │
+    │ exceptions  │       │     │ year status         │
+    └─────────────┘       │     └─────────────────────┘
                           │
                           ▼
           ┌───────────────────────────────────┐
@@ -167,8 +158,8 @@ If your plan's first year is **7 months or less**, you may **defer** (not waive)
 | Growing plan | Small plan | 100-120 at BOY | **NO** - Can stay small |
 | Growing plan | Small plan | 121+ at BOY | **YES** - Must file large |
 | Shrinking plan | Large plan | 100-120 at BOY | **YES** - Must stay large |
-| Shrinking plan | Large plan | 80-99 at BOY | **YES** - Must stay large |
-| Shrinking plan | Large plan | <80 at BOY | **NO** - Can file small |
+| Shrinking plan | Large plan | 80-99 at BOY | **NO** - Can elect to file small |
+| Shrinking plan | Large plan | <80 at BOY | **NO** - File as small |
 | Stable small | Small plan | <100 at BOY | **NO** - Stay small |
 | Stable large | Large plan | 100+ at BOY | **YES** - Stay large |
 | New plan (>7 mo) | N/A | <100 at EOY | **NO** - File as small |
@@ -178,14 +169,16 @@ If your plan's first year is **7 months or less**, you may **defer** (not waive)
 
 *BOY = Beginning of Year; EOY = End of Year*
 
+**Note on 80-120 Rule:** The rule provides *flexibility*, not additional burden. A shrinking large plan that drops below 100 participants **may elect** to file as small and skip the audit. The 80-120 range only *requires* continued large plan filing when the count stays at 100 or above.
+
 ### Quick Reference Rules
 
 1. **121+ participants with balances = Always need an audit** (no exceptions)
-2. **Under 80 participants with balances = Never need an audit** (unless prior year was large)
-3. **80-120 participants = Depends on prior year filing status** (80-120 rule)
+2. **Under 100 participants with balances = No audit required** (can elect to file as small plan)
+3. **100-120 participants = Depends on prior year filing status** (80-120 rule applies)
 4. **First year of plan = Based on YEAR-END count** (not exempt—count at year-end, not beginning)
 5. **Short plan year (≤7 months) = Can DEFER audit** (not exempt—combined audit covers 2 years)
-6. **"Once large, stay large"** until you drop below 80 participants
+6. **"Once large, stay large"** only applies while you have **100+ participants**
 7. **Since 2023: Count only participants with account balances** (not all eligible employees)
 
 ### Common Mistakes to Avoid
@@ -194,7 +187,7 @@ If your plan's first year is **7 months or less**, you may **defer** (not waive)
 |---------|---------|
 | "We only count eligible employees" | **OUTDATED** - Since 2023, count only participants **with account balances** |
 | "We're at 115, we were 98 last year, no audit needed" | Correct! The 80-120 rule protects you |
-| "We dropped to 85 from 130, we're under 100!" | Wrong - you need 79 or fewer to drop out of audit |
+| "We dropped to 85 from 130, we're under 100!" | Correct! You can elect to file as small plan and skip the audit |
 | "Our new plan started July 1 with 200 employees, no audit" | **WRONG** - Count at year-end. If 100+ have balances at 12/31, audit is required (plan year >7 months, no deferral) |
 | "Our plan started Oct 1, 150 employees, first year exempt" | **WRONG** - Can DEFER to Year 2, but audit still required (covers both years) |
 | "First-year plans are exempt from audits" | **WRONG** - First-year plans use year-end count; audit required if 100+ |
