@@ -189,7 +189,7 @@ A person or entity with discretionary authority or control over plan management,
 The non-vested portion of an employer contribution account that is lost when a participant terminates employment. May be used to pay expenses, reduce employer contributions, or reallocate to remaining participants.
 
 ### Form 5500
-The annual return/report filed with the DOL for employee benefit plans. Large plans (100+ participants) must include audited financial statements.
+The annual return/report filed with the DOL for employee benefit plans. Large plans (100+ participants with account balances) must include audited financial statements. Since 2023, the participant count is based on those with account balances, not all eligible employees.
 
 ### Form 5558
 The form used to request an extension of time to file Form 5500. Extends the deadline by 2½ months.

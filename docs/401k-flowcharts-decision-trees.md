@@ -50,7 +50,9 @@ Visual guides and decision trees for navigating complex 401(k) audit decisions. 
           └──────────────┘    └────────────────┘   └─────────────┘
 ```
 
-### The 80-120 Rule
+### The 100/120 Rule (Commonly Miscalled "80-120 Rule")
+
+**The number "80" is irrelevant.** Only two thresholds matter: **100** and **120**.
 
 ```
                       ┌──────────────────────────┐
@@ -73,24 +75,32 @@ Visual guides and decision trees for navigating complex 401(k) audit decisions. 
     │ Participants?      │              │ Participants?        │
     └──────────┬─────────┘              └───────────┬──────────┘
                │                                    │
-    ┌──────────┼───────────┐             ┌──────────┼──────────┐
-    │          │           │             │          │          │
-    ▼          ▼           ▼             ▼          ▼          ▼
- ≥120       100-120        <100          ≤120        >120
-    │          │           │             │          │
-    ▼          ▼           ▼             ▼          ▼
- ┌──────┐  ┌──────┐    ┌──────┐     ┌──────┐   ┌──────┐
- │AUDIT │  │ELECT │    │  NO  │     │  NO  │   │AUDIT │
- │REQ'D │  │SMALL │    │AUDIT │     │AUDIT │   │REQ'D │
- │      │  │PLAN  │    │      │     │      │   │      │
- └──────┘  └──────┘    └──────┘     └──────┘   └──────┘
+    ┌──────────┴──────────┐             ┌──────────┴──────────┐
+    │                     │             │                     │
+    ▼                     ▼             ▼                     ▼
+  ≥100                  <100          ≤120                  >120
+    │                     │             │                     │
+    ▼                     ▼             ▼                     ▼
+ ┌──────┐           ┌──────┐       ┌──────┐             ┌──────┐
+ │AUDIT │           │  NO  │       │  NO  │             │AUDIT │
+ │REQ'D │           │AUDIT │       │AUDIT │             │REQ'D │
+ │      │           │(elect│       │(stay │             │      │
+ │(stay │           │small)│       │small)│             │      │
+ │large)│           │      │       │      │             │      │
+ └──────┘           └──────┘       └──────┘             └──────┘
 ```
 
-**Key Points:**
-- Count "eligible" participants, not just those with balances
-- Count at beginning of plan year
+**Key thresholds:**
+- **100** = Point where large plans can drop to small (under 100 = can elect small)
+- **121** = Point where small plans must become large (over 120 = audit required)
+
+**Key Points (Updated 2023):**
+- Count only participants **with account balances** (not all "eligible" employees)
+- Count at beginning of plan year (for existing plans)
+- For first-year plans, count at **end** of plan year
 - Include terminated participants with balances
-- Exclude participants who could not yet elect to participate
+- Exclude eligible employees who have not enrolled ($0 balance)
+- The number "80" triggers nothing—ignore it
 
 ---
 

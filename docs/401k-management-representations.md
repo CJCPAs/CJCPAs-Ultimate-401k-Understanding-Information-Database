@@ -373,7 +373,7 @@ ___________________________________
 
 65. [For new plans: The Plan was properly established effective [Date] and has received/applied for a determination letter from the IRS. / The Plan is maintained on a pre-approved document with a current opinion letter.]
 
-66. [For first audit after growth: The Plan exceeded 100 eligible participants at the beginning of [plan year], triggering the audit requirement for the first time.]
+66. [For first audit after growth: The Plan exceeded 100 participants with account balances at the beginning of [plan year], triggering the audit requirement for the first time.]
 
 67. [For plans resulting from merger/spinoff: The Plan received assets from [Predecessor Plan] effective [Date]. The transferred assets were valued at $[Amount] as of the transfer date.]
 

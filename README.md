@@ -23,7 +23,7 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 - [Distributions & Withdrawals](docs/401k-distributions.md) - Withdrawal rules, RMDs, early withdrawal penalties
 - [Loans & Hardship Withdrawals](docs/401k-loans.md) - Borrowing from your 401(k)
 - [Rollovers & Transfers](docs/401k-rollovers.md) - Moving funds between accounts
-- [Do I Need a 401(k) Audit This Year?](docs/401k-audit-requirements.md#do-i-need-a-401k-audit-this-year) - Decision tree and 80-120 rule
+- [Do I Need a 401(k) Audit This Year?](docs/401k-audit-requirements.md#do-i-need-a-401k-audit-this-year) - Decision tree and 80/120 rule
 
 ### Part 2: 401(k) Plan Administration
 - [Plan Documents](docs/401k-plan-documents.md) - SPD, plan document, adoption agreements
@@ -108,7 +108,7 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 | Key Employee (Officer) Threshold | $230,000 |
 | Defined Benefit Limit | $280,000 |
 | Social Security Wage Base | $176,100 |
-| Audit Requirement Threshold | 100+ eligible participants |
+| Audit Requirement Threshold | 100+ participants with account balances |
 
 *SECURE 2.0 enhanced catch-up for ages 60-63 is NOW EFFECTIVE for 2025 plan year
 

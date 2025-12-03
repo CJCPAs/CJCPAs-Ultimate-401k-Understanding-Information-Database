@@ -8,7 +8,7 @@ This document provides detailed information about when a 401(k) plan audit is re
 
 1. [Do I Need a 401(k) Audit This Year?](#do-i-need-a-401k-audit-this-year)
 2. [Participant Count Requirements](#participant-count-requirements)
-3. [80-120 Participant Rule Details](#80-120-participant-rule-details)
+3. [100/120 Participant Rule Details](#100120-participant-rule-details)
 4. [DOL Requirements](#dol-requirements)
 5. [Auditor Qualifications](#auditor-qualifications)
 6. [Independence Requirements](#independence-requirements)
@@ -24,7 +24,7 @@ This is one of the most common questions plan sponsors ask. The answer depends o
 
 ### The Simple Answer
 
-**If your plan has 100 or more participants with account balances at the beginning of the plan year, you generally need an audit.** But there's a transition rule (the "80-120 rule") that provides some flexibility.
+**If your plan has 100 or more participants with account balances at the beginning of the plan year, you generally need an audit.** But there's a transition rule that provides flexibility for plans near this threshold.
 
 ### Important: 2023 Participant Count Changes
 
@@ -99,10 +99,10 @@ Follow this flowchart to determine if you need an audit:
             │             │             │
             ▼             ▼             ▼
        ┌────────┐    ┌────────┐    ┌────────┐
-       │  121+  │    │ 80-120 │    │  <80   │
+       │  121+  │    │100-120 │    │  <100  │
        └────────┘    └────────┘    └────────┘
             │             │             │
-            ▼             │             ▼
+            ▼             ▼             ▼
     ┌─────────────┐       │     ┌─────────────────────┐
     │ YES - AUDIT │       │     │ NO AUDIT REQUIRED   │
     │ REQUIRED    │       │     │                     │
@@ -125,9 +125,29 @@ Follow this flowchart to determine if you need an audit:
         │                 │  │                 │
         │ Stay small      │  │ Once large,     │
         │ until 121+      │  │ stay large      │
-        │                 │  │ until <80       │
+        │                 │  │ until <100      │
         └─────────────────┘  └─────────────────┘
 ```
+
+### The 100/120 Participant Rule (Commonly Miscalled "80-120 Rule")
+
+The so-called "80-120 rule" is actually about **two thresholds: 100 and 120**. The number 80 is irrelevant and causes confusion.
+
+**Here's how it ACTUALLY works:**
+
+| Your Prior Year Status | Your Current Participant Count | Result |
+|------------------------|-------------------------------|--------|
+| **Small plan** | Under 121 | **NO AUDIT** - Stay small |
+| **Small plan** | 121 or more | **AUDIT REQUIRED** - Must file large |
+| **Large plan** | Under 100 | **NO AUDIT** - Can elect to file small |
+| **Large plan** | 100 or more | **AUDIT REQUIRED** - Must stay large |
+
+**The ONLY thresholds that matter:**
+- **100** = The point where a large plan can DROP to small plan status
+- **120** = The point where a small plan can STAY small (up to 120)
+- **121** = The point where a small plan MUST become large
+
+**Why "80" doesn't matter:** Whether you have 50, 75, 80, 85, or 99 participants—if you're under 100, you can file as a small plan. The number 80 triggers nothing.
 
 ### First Plan Year Rules - CRITICAL DISTINCTION
 
@@ -155,27 +175,24 @@ If your plan's first year is **7 months or less**, you may **defer** (not waive)
 
 | Scenario | Prior Year Filing | Participants (with balances) | Audit Required? |
 |----------|-------------------|------------------------------|-----------------|
-| Growing plan | Small plan | 100-120 at BOY | **NO** - Can stay small |
+| Growing plan | Small plan | Under 121 at BOY | **NO** - Stay small |
 | Growing plan | Small plan | 121+ at BOY | **YES** - Must file large |
-| Shrinking plan | Large plan | 100-120 at BOY | **YES** - Must stay large |
-| Shrinking plan | Large plan | 80-99 at BOY | **NO** - Can elect to file small |
-| Shrinking plan | Large plan | <80 at BOY | **NO** - File as small |
-| Stable small | Small plan | <100 at BOY | **NO** - Stay small |
+| Shrinking plan | Large plan | Under 100 at BOY | **NO** - Can elect to file small |
+| Shrinking plan | Large plan | 100+ at BOY | **YES** - Must stay large |
+| Stable small | Small plan | Under 100 at BOY | **NO** - Stay small |
 | Stable large | Large plan | 100+ at BOY | **YES** - Stay large |
-| New plan (>7 mo) | N/A | <100 at EOY | **NO** - File as small |
+| New plan (>7 mo) | N/A | Under 100 at EOY | **NO** - File as small |
 | New plan (>7 mo) | N/A | 100+ at EOY | **YES** - Audit required |
-| New plan (≤7 mo) | N/A | <100 at EOY | **NO** - File as small |
+| New plan (≤7 mo) | N/A | Under 100 at EOY | **NO** - File as small |
 | New plan (≤7 mo) | N/A | 100+ at EOY | **DEFERRED** - Combined with Year 2 audit |
 
 *BOY = Beginning of Year; EOY = End of Year*
 
-**Note on 80-120 Rule:** The rule provides *flexibility*, not additional burden. A shrinking large plan that drops below 100 participants **may elect** to file as small and skip the audit. The 80-120 range only *requires* continued large plan filing when the count stays at 100 or above.
-
 ### Quick Reference Rules
 
 1. **121+ participants with balances = Always need an audit** (no exceptions)
-2. **Under 100 participants with balances = No audit required** (can elect to file as small plan)
-3. **100-120 participants = Depends on prior year filing status** (80-120 rule applies)
+2. **Under 100 participants with balances = No audit required** (can file as small plan, regardless of prior year)
+3. **100-120 participants = Depends on prior year filing status** (transition zone)
 4. **First year of plan = Based on YEAR-END count** (not exempt—count at year-end, not beginning)
 5. **Short plan year (≤7 months) = Can DEFER audit** (not exempt—combined audit covers 2 years)
 6. **"Once large, stay large"** only applies while you have **100+ participants**
@@ -186,8 +203,9 @@ If your plan's first year is **7 months or less**, you may **defer** (not waive)
 | Mistake | Reality |
 |---------|---------|
 | "We only count eligible employees" | **OUTDATED** - Since 2023, count only participants **with account balances** |
-| "We're at 115, we were 98 last year, no audit needed" | Correct! The 80-120 rule protects you |
-| "We dropped to 85 from 130, we're under 100!" | Correct! You can elect to file as small plan and skip the audit |
+| "We're at 115, we were 98 last year, no audit needed" | **Correct!** Small plans can stay small up to 120 participants |
+| "We dropped to 85 from 130, we're under 100!" | **Correct!** Under 100 = can file as small plan, no audit |
+| "We need to drop below 80 to avoid the audit" | **WRONG** - The number 80 is irrelevant. Under 100 = no audit required |
 | "Our new plan started July 1 with 200 employees, no audit" | **WRONG** - Count at year-end. If 100+ have balances at 12/31, audit is required (plan year >7 months, no deferral) |
 | "Our plan started Oct 1, 150 employees, first year exempt" | **WRONG** - Can DEFER to Year 2, but audit still required (covers both years) |
 | "First-year plans are exempt from audits" | **WRONG** - First-year plans use year-end count; audit required if 100+ |
@@ -266,11 +284,13 @@ Even if under 100 participants, plan may voluntarily:
 
 ---
 
-## 80-120 Participant Rule Details
+## 100/120 Participant Rule Details
 
 ### Purpose
 
-The 80-120 rule provides administrative relief for plans near the 100-participant threshold, preventing audit status from fluctuating year to year.
+The 100/120 rule (commonly miscalled the "80-120 rule") provides administrative relief for plans near the 100-participant threshold, preventing audit status from fluctuating year to year.
+
+**Important clarification:** The number "80" does NOT matter. The only thresholds that trigger action are **100** and **120**.
 
 ### How It Works
 
@@ -282,11 +302,11 @@ Current Year: 110 participants
 
 110 is between 100 and 120
 Prior year filed as small plan
-May continue filing as small plan
+→ May continue filing as small plan (NO AUDIT)
 
 Current Year: 125 participants
 Now exceeds 120
-Must file as large plan with audit
+→ Must file as large plan (AUDIT REQUIRED)
 ```
 
 #### Scenario 2: Large Plan Shrinking
@@ -295,25 +315,27 @@ Must file as large plan with audit
 Prior Year: 105 participants (large plan, audit required)
 Current Year: 95 participants
 
-95 is between 80 and 100
+95 is UNDER 100
 Prior year filed as large plan
-May continue filing as large plan
+→ Can elect to file as small plan (NO AUDIT)
 
-Current Year: 78 participants
-Now below 80
-May file as small plan without audit
+Note: Whether 95, 85, 75, or 50—any count under 100
+allows the large plan to drop to small plan status.
+The number "80" is irrelevant.
 ```
 
 ### Decision Matrix
 
 | Prior Year Status | Current Count | Required Action |
 |------------------|---------------|-----------------|
-| Small (<100) | Under 100 | Small plan |
-| Small (<100) | 100-120 | May remain small |
-| Small (<100) | Over 120 | Large plan (audit) |
-| Large (100+) | Under 80 | May become small |
-| Large (100+) | 80-120 | May remain large |
-| Large (100+) | Over 100 | Large plan (audit) |
+| Small plan | Under 121 | Small plan (no audit) |
+| Small plan | 121 or more | Large plan (audit required) |
+| Large plan | Under 100 | May become small (no audit) |
+| Large plan | 100 or more | Large plan (audit required) |
+
+**Key insight:** There are only TWO thresholds:
+- **100** = Point where large plans can drop to small
+- **121** = Point where small plans must become large
 
 ### First Year Plans
 

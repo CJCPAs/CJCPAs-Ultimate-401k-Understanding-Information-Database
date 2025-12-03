@@ -176,33 +176,40 @@ The audit requirement for MEPs and PEPs follows the same rules as single employe
 
 | Plan Size | Audit Requirement |
 |-----------|-------------------|
-| Under 100 eligible participants | Exempt (small plan) |
-| 100-120 eligible participants | 80-120 rule may apply |
-| Over 120 eligible participants | Audit required |
+| Under 100 participants with balances | Exempt (small plan) |
+| 100-120 participants with balances | 80-120 rule may apply |
+| Over 120 participants with balances | Audit required |
 
 **Important:** The participant count is for the entire MEP/PEP, not per employer.
 
+**2023 Rule Change:** Effective for plan years beginning January 1, 2023, count only participants **with account balances**, not all "eligible" participants.
+
 ### Counting Participants
 
-For MEPs and PEPs, count all eligible participants across all participating employers:
+For MEPs and PEPs, count all participants **with account balances** across all participating employers:
 
 ```
-Employer A eligible participants:    45
-Employer B eligible participants:    35
-Employer C eligible participants:    55
-                                   -----
-Total eligible participants:        135 → Audit required
+Employer A participants with balances:    45
+Employer B participants with balances:    35
+Employer C participants with balances:    55
+                                        -----
+Total participants with balances:        135 → Audit required
 ```
 
-### 80-120 Rule Application
+### 100/120 Rule Application
+
+The number "80" is irrelevant. Only two thresholds matter: **100** and **120**.
 
 | If Last Year Was: | And This Year Participants Are: | Audit Requirement |
 |-------------------|---------------------------------|-------------------|
 | Large plan (audit) | 100 or more | Continue audit |
-| Large plan (audit) | 80-99 | May elect small plan |
-| Large plan (audit) | Under 80 | Small plan (no audit) |
-| Small plan (no audit) | 120 or fewer | Continue small plan |
-| Small plan (no audit) | Over 120 | Audit required |
+| Large plan (audit) | Under 100 | May elect small plan (no audit) |
+| Small plan (no audit) | Under 121 | Continue small plan (no audit) |
+| Small plan (no audit) | 121 or more | Audit required |
+
+**Key thresholds:**
+- **100** = Point where large plans can drop to small
+- **121** = Point where small plans must become large
 
 ### Limited Scope vs. Full Scope
 
