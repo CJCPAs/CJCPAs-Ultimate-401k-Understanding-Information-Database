@@ -82,7 +82,7 @@ Plans with 100 or more participants with account balances at the beginning of th
 - Individuals not yet meeting eligibility requirements
 - Beneficiaries already receiving full benefits
 
-### The 100/120 Rule (Commonly Miscalled "80-120 Rule")
+### The 80/120 Rule
 
 For plans near the threshold, there are only **TWO thresholds that matter: 100 and 120**. The number "80" is irrelevant.
 
