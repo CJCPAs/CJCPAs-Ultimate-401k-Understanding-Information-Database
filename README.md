@@ -23,7 +23,7 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 - [Distributions & Withdrawals](docs/401k-distributions.md) - Withdrawal rules, RMDs, early withdrawal penalties
 - [Loans & Hardship Withdrawals](docs/401k-loans.md) - Borrowing from your 401(k)
 - [Rollovers & Transfers](docs/401k-rollovers.md) - Moving funds between accounts
-- [Do I Need a 401(k) Audit This Year?](docs/401k-audit-requirements.md#do-i-need-a-401k-audit-this-year) - Decision tree and 100/120 rule
+- [Do I Need a 401(k) Audit This Year?](docs/401k-audit-requirements.md#do-i-need-a-401k-audit-this-year) - Decision tree and 80/120 rule
 
 ### Part 2: 401(k) Plan Administration
 - [Plan Documents](docs/401k-plan-documents.md) - SPD, plan document, adoption agreements
