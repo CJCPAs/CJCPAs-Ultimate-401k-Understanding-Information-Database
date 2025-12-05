@@ -2,7 +2,19 @@
 
 **Version 2.2.1 | Updated December 2025 | 39,000+ Lines of Documentation**
 
-The most comprehensive resource for understanding every detail of 401(k) retirement plans and **401(k) audits** - covering both limited scope and full scope engagements, MEPs, PEPs, and everything in between.
+> ⚠️ **IMPORTANT: Please Read Before Using This Resource**
+>
+> This guide is for **informational and educational purposes only** and does not constitute professional accounting, tax, legal, or financial advice. The information may not be complete or current, and laws change frequently. **Always consult with a qualified CPA, ERISA attorney, or benefits professional** before making decisions about your specific situation. See the [full disclaimer](#-important-disclaimer) below.
+
+---
+
+## 🌐 Open Source & Community-Driven
+
+**A comprehensive, community-driven resource for understanding 401(k) retirement plans and audits** - covering limited scope and full scope engagements, MEPs, PEPs, and more.
+
+We believe accurate 401(k) information should be accessible to everyone. This is an **open source project** and we welcome contributions, corrections, and improvements from the community. If you find an error or have expertise to share, please contribute! Together, we can make this resource better for plan sponsors, administrators, auditors, and participants everywhere.
+
+**Found an issue?** [Open an issue](../../issues) or submit a pull request. Let's make 401(k) knowledge accessible and accurate together.
 
 > **2025 Plan Year Ready**: All limits, SECURE 2.0 provisions, and audit guidance updated for the 2025 plan year (audits performed in 2026).
 
@@ -173,7 +185,7 @@ The most comprehensive resource for understanding every detail of 401(k) retirem
 
 ## About This Database
 
-This database is designed to be the most comprehensive resource available for understanding 401(k) plans and **traditional limited scope audits**. Whether you're a:
+This open source database provides detailed guidance on 401(k) plans and **traditional limited scope audits**. While we strive for accuracy, no resource can cover every scenario or replace professional judgment. Whether you're a:
 
 - **Plan Sponsor** looking to understand your responsibilities
 - **Plan Administrator** managing day-to-day operations
@@ -228,28 +240,49 @@ You'll find detailed, actionable information organized for easy reference.
 
 ## Contributing
 
-This is a living document. Contributions are welcome to help maintain accuracy and expand coverage of 401(k) topics.
+This is a **living, open source document** maintained by the community. We welcome contributions from CPAs, ERISA attorneys, plan administrators, auditors, and anyone with expertise to share.
+
+### How to Contribute
+
+- **Found an error?** [Open an issue](../../issues) describing the problem
+- **Have a correction?** Submit a pull request with your fix
+- **Want to add content?** Fork the repo and submit a PR
+- **Have expertise to share?** We'd love your input on complex topics
+
+### Contribution Guidelines
+
+1. Cite authoritative sources (DOL, IRS, AICPA, CFR) when possible
+2. Be specific about regulatory references (include CFR citations)
+3. Note when rules differ for different plan types or situations
+4. Avoid overclaiming—acknowledge limitations and edge cases
+5. Keep the tone educational and accessible
+
+**Together, we can make 401(k) knowledge accessible and accurate for everyone.**
 
 ## ⚠️ Important Disclaimer
-THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.
 
-The information contained in this guide, including all tutorials, templates, examples, charts of accounts, checklists, and reference materials, is provided "as is" without warranty of any kind, express or implied. This guide does not constitute professional accounting, tax, legal, or financial advice.
+**THIS GUIDE IS FOR INFORMATIONAL AND EDUCATIONAL PURPOSES ONLY.**
 
-Please Note:
-Not Professional Advice: This guide is not a substitute for professional accounting, tax, or legal counsel. Every business situation is unique, and the information provided here may not be appropriate for your specific circumstances.
+The information contained in this guide, including all tutorials, templates, examples, checklists, and reference materials, is provided "as is" without warranty of any kind, express or implied. This guide does not constitute professional accounting, tax, legal, or financial advice.
 
-No CPA-Client Relationship: Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s) or publisher(s) of this content.
+### Please Note:
 
-Verify with Professionals: Before implementing any financial practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), tax professional, or attorney who is familiar with your specific business situation and applicable laws.
+**Not Professional Advice:** This guide is not a substitute for professional accounting, tax, legal, or ERISA counsel. Every plan situation is unique, and the information provided here may not be appropriate for your specific circumstances.
 
-Accuracy Not Guaranteed: While every effort has been made to ensure the accuracy and completeness of the information in this guide, accounting standards (GAAP), tax laws, and software features change frequently. The author(s) make no guarantees that the information is current, complete, or error-free.
+**No CPA-Client Relationship:** Reading, using, or relying on this guide does not create a CPA-client, attorney-client, or any other professional relationship between you and the author(s), contributor(s), or publisher(s) of this content.
 
-State and Local Variations: Construction accounting requirements, lien laws, retention rules, and tax obligations vary significantly by state, county, and municipality. This guide provides general guidance and may not address requirements specific to your jurisdiction.
+**Verify with Professionals:** Before implementing any practices described in this guide, you should consult with a qualified Certified Public Accountant (CPA), ERISA attorney, or benefits professional who is familiar with your specific plan and applicable laws.
 
-Limitation of Liability: In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
+**Accuracy Not Guaranteed:** While every effort has been made to ensure accuracy, ERISA regulations, IRS guidance, DOL requirements, accounting standards, and tax laws change frequently. The author(s) and contributors make no guarantees that the information is current, complete, or error-free. Even comprehensive resources like the ERISA Outline Book (9 volumes, 10,000+ pages) cannot cover every detail—neither can this guide.
 
-Your Responsibility: You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
+**State and Local Variations:** State tax treatment of 401(k) plans, escheatment requirements, community property laws, and other rules vary significantly by jurisdiction. This guide provides general guidance and may not address requirements specific to your state or locality.
 
-BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THIS DISCLAIMER.
+**Limitation of Liability:** In no event shall the author(s), publisher(s), or contributors be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of or reliance on this guide.
 
-If you need professional assistance with your construction accounting, please consult with a licensed CPA or accounting professional in your area.
+**Your Responsibility:** You are solely responsible for determining whether the information in this guide is appropriate for your situation and for any actions you take based on this information.
+
+**Open Source Disclaimer:** This is a community-driven, open source project. While we welcome contributions and strive for accuracy, content is provided by various contributors and may contain errors. Always verify critical information with authoritative sources.
+
+**BY USING THIS GUIDE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THIS DISCLAIMER.**
+
+If you need professional assistance with your 401(k) plan, please consult with a licensed CPA, ERISA attorney, or qualified benefits professional in your area.

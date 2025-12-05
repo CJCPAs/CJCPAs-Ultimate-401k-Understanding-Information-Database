@@ -39,10 +39,16 @@ To receive protection from liability for participant investment decisions, plans
    - Historical performance
    - Risk characteristics
 
-3. **Allow Reasonable Transfer Frequency**
-   - At least quarterly opportunity to change investments
-   - More frequent for volatile options
-   - No unreasonable restrictions
+3. **Allow Reasonable Transfer Frequency** (Participant-Directed Accounts Only)
+
+   Under 29 CFR 2550.404c-1, for participant-directed accounts:
+   - Participants must have at least one opportunity to transfer investments within every 3-month period
+   - More frequent transfer opportunities required for volatile investments (appropriate to market volatility)
+   - Restrictions are "unreasonable" if they don't permit transfers at least quarterly
+
+   **Example from DOL regulations:** A plan allowing transfers only on January 1, April 4, July 1, and October 1 does NOT satisfy ERISA 404(c) because there is a 3-month period (January 2 through April 1) during which no control could be exercised.
+
+   **Note:** These requirements apply to **participant-directed accounts** seeking ERISA 404(c) fiduciary protection. Employer-directed accounts (such as employer matching contributions invested in company stock) may have different rules under IRC § 401(a)(35) and ERISA § 204(j), which require diversification rights at least quarterly after applicable service requirements are met.
 
 4. **Give Participants Control**
    - Actual control over investment selection
@@ -658,6 +664,16 @@ Maintain records of:
 
 ---
 
+## Regulatory References
+
+- [29 CFR 2550.404c-1](https://www.law.cornell.edu/cfr/text/29/2550.404c-1) - ERISA Section 404(c) Plans (transfer frequency, participant control)
+- [29 CFR 2550.404a-5](https://www.law.cornell.edu/cfr/text/29/2550.404a-5) - Fiduciary Requirements for Disclosure in Participant-Directed Plans
+- [29 CFR 2550.404c-5](https://www.law.cornell.edu/cfr/text/29/2550.404c-5) - Qualified Default Investment Alternatives (QDIAs)
+- [IRC § 401(a)(35)](https://www.law.cornell.edu/uscode/text/26/401) - Diversification Requirements for Employer Securities (PPA 2006)
+- [ERISA § 204(j)](https://www.law.cornell.edu/uscode/text/29/1054) - Diversification Requirements
+
+---
+
 ## Related Resources
 
 - [401(k) Plan Basics](401k-plan-basics.md)
@@ -667,4 +683,4 @@ Maintain records of:
 
 ---
 
-*Last Updated: 2024*
+*Last Updated: December 2025*
